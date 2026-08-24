@@ -17,7 +17,7 @@
                 "last_commit": "2024-01-24T09:25:35Z",
                 "owner": "justadudewhohacks",
                 "repo": "face-api.js",
-                "stars": 17945
+                "stars": 17944
               }
             }
           ],
@@ -195,7 +195,7 @@
                 "last_commit": "2024-02-22T03:09:33Z",
                 "owner": "thundercomb",
                 "repo": "poetrydb",
-                "stars": 643
+                "stars": 644
               }
             },
             {
@@ -1174,7 +1174,7 @@
                 "archived": false,
                 "id": 25596429,
                 "language": "Python",
-                "last_commit": "2026-08-05T11:15:21Z",
+                "last_commit": "2026-08-24T19:10:52Z",
                 "owner": "Hipo",
                 "repo": "university-domains-list",
                 "stars": 1646
@@ -1199,7 +1199,7 @@
                 "last_commit": "2026-07-31T00:50:25Z",
                 "owner": "anuraghazra",
                 "repo": "github-readme-stats",
-                "stars": 79827
+                "stars": 79826
               }
             }
           ],
@@ -1414,7 +1414,7 @@
                 "last_commit": "2026-08-11T06:30:36Z",
                 "owner": "fingerprintjs",
                 "repo": "BotD",
-                "stars": 1453
+                "stars": 1454
               }
             },
             {
@@ -1541,7 +1541,7 @@
                 "last_commit": "2025-01-01T07:55:30Z",
                 "owner": "HackerNews",
                 "repo": "API",
-                "stars": 13271
+                "stars": 13273
               }
             },
             {
@@ -1859,10 +1859,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:51:45.630Z",
+    "last_updated": "2026-08-24T20:47:51.061Z",
     "original_repository": "marcelscruz/public-apis",
     "original_repository_id": 490985210,
-    "original_repository_sha": "1439fc97f530ba1bc27266bbdf5af6656cab5567",
+    "original_repository_sha": "bd658cdc401c8b58e37e82dcf055ee49fdbbff2c",
     "enhanced_repository": "enhansome/enhansome-public-apis",
     "enhanced_repository_description": null,
     "title": "Awesome public apis with stars"

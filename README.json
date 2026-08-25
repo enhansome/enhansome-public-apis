@@ -39,7 +39,7 @@
                 "last_commit": "2025-06-04T07:15:44Z",
                 "owner": "wh-iterabb-it",
                 "repo": "meowfacts",
-                "stars": 546
+                "stars": 547
               }
             },
             {
@@ -54,7 +54,7 @@
                 "last_commit": "2026-01-02T14:12:14Z",
                 "owner": "movebank",
                 "repo": "movebank-api-doc",
-                "stars": 191
+                "stars": 192
               }
             }
           ],
@@ -150,7 +150,7 @@
                 "last_commit": "2024-09-25T19:38:12Z",
                 "owner": "CrossRef",
                 "repo": "rest-api-doc",
-                "stars": 801
+                "stars": 800
               }
             },
             {
@@ -210,7 +210,7 @@
                 "last_commit": "2026-03-15T17:50:02Z",
                 "owner": "fawazahmed0",
                 "repo": "quran-api",
-                "stars": 1164
+                "stars": 1166
               }
             }
           ],
@@ -742,10 +742,10 @@
                 "archived": false,
                 "id": 218856223,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T01:26:22Z",
+                "last_commit": "2026-08-25T14:56:24Z",
                 "owner": "favware",
                 "repo": "graphql-pokemon",
-                "stars": 196
+                "stars": 197
               }
             },
             {
@@ -917,7 +917,7 @@
                 "last_commit": "2026-08-24T02:32:42Z",
                 "owner": "IcaliaLabs",
                 "repo": "sepomex",
-                "stars": 103
+                "stars": 104
               }
             },
             {
@@ -1310,7 +1310,7 @@
                 "last_commit": "2026-08-23T21:32:09Z",
                 "owner": "DenverCoder1",
                 "repo": "readme-typing-svg",
-                "stars": 9258
+                "stars": 9260
               }
             }
           ],
@@ -1474,7 +1474,7 @@
                 "last_commit": "2024-10-22T09:18:12Z",
                 "owner": "mozilla",
                 "repo": "http-observatory",
-                "stars": 1851
+                "stars": 1850
               }
             },
             {
@@ -1526,7 +1526,7 @@
                 "last_commit": "2026-08-07T15:42:34Z",
                 "owner": "4chan",
                 "repo": "4chan-API",
-                "stars": 1108
+                "stars": 1109
               }
             },
             {
@@ -1541,7 +1541,7 @@
                 "last_commit": "2025-01-01T07:55:30Z",
                 "owner": "HackerNews",
                 "repo": "API",
-                "stars": 13273
+                "stars": 13274
               }
             },
             {
@@ -1704,7 +1704,7 @@
                 "last_commit": "2026-08-15T13:02:27Z",
                 "owner": "shevabam",
                 "repo": "breaking-bad-quotes",
-                "stars": 457
+                "stars": 458
               }
             },
             {
@@ -1859,10 +1859,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:47:46.599Z",
+    "last_updated": "2026-08-25T20:45:32.564Z",
     "original_repository": "marcelscruz/public-apis",
     "original_repository_id": 490985210,
-    "original_repository_sha": "d5f87c35a9a13d1d42c886c589a669eeb1bc9681",
+    "original_repository_sha": "1c9a62c53705d1c91425bb162df81df6c934b77a",
     "enhanced_repository": "enhansome/enhansome-public-apis",
     "enhanced_repository_description": null,
     "title": "Awesome public apis with stars"

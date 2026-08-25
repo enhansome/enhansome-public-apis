@@ -17,7 +17,7 @@
                 "last_commit": "2024-01-24T09:25:35Z",
                 "owner": "justadudewhohacks",
                 "repo": "face-api.js",
-                "stars": 17944
+                "stars": 17945
               }
             }
           ],
@@ -67,7 +67,7 @@
             {
               "node_type": "item",
               "title": "AniList",
-              "description": "Anime discovery & tracking Unknown",
+              "description": "Anime discovery & tracking  Unknown",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -104,7 +104,7 @@
             {
               "node_type": "item",
               "title": "Harvard Art Museums",
-              "description": "Art Unknown",
+              "description": "Art  Unknown",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -150,7 +150,7 @@
                 "last_commit": "2024-09-25T19:38:12Z",
                 "owner": "CrossRef",
                 "repo": "rest-api-doc",
-                "stars": 800
+                "stars": 801
               }
             },
             {
@@ -195,7 +195,7 @@
                 "last_commit": "2024-02-22T03:09:33Z",
                 "owner": "thundercomb",
                 "repo": "poetrydb",
-                "stars": 644
+                "stars": 645
               }
             },
             {
@@ -210,7 +210,7 @@
                 "last_commit": "2026-03-15T17:50:02Z",
                 "owner": "fawazahmed0",
                 "repo": "quran-api",
-                "stars": 1162
+                "stars": 1164
               }
             }
           ],
@@ -282,7 +282,7 @@
             {
               "node_type": "item",
               "title": "Binance",
-              "description": "Exchange for Trading Cryptocurrencies based in China Unknown",
+              "description": "Exchange for Trading Cryptocurrencies based in China  Unknown",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -291,13 +291,13 @@
                 "last_commit": "2026-08-14T01:36:44Z",
                 "owner": "binance",
                 "repo": "binance-spot-api-docs",
-                "stars": 4854
+                "stars": 4856
               }
             },
             {
               "node_type": "item",
               "title": "Ethplorer",
-              "description": "Ethereum tokens, balances, addresses, history of transactions, contracts, and custom structures Unknown",
+              "description": "Ethereum tokens, balances, addresses, history of transactions, contracts, and custom structures  Unknown",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -312,7 +312,7 @@
             {
               "node_type": "item",
               "title": "Indodax",
-              "description": "Trade your Bitcoin and other assets with rupiah Unknown",
+              "description": "Trade your Bitcoin and other assets with rupiah  Unknown",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -587,7 +587,7 @@
             {
               "node_type": "item",
               "title": "Real Time Finance",
-              "description": "Websocket API to access realtime stock data Unknown",
+              "description": "Websocket API to access realtime stock data  Unknown",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -742,7 +742,7 @@
                 "archived": false,
                 "id": 218856223,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T02:34:32Z",
+                "last_commit": "2026-08-25T01:26:22Z",
                 "owner": "favware",
                 "repo": "graphql-pokemon",
                 "stars": 196
@@ -991,7 +991,7 @@
                 "last_commit": "2023-03-27T22:09:13Z",
                 "owner": "mathdroid",
                 "repo": "covid-19-api",
-                "stars": 1351
+                "stars": 1352
               }
             },
             {
@@ -1056,7 +1056,7 @@
             {
               "node_type": "item",
               "title": "Feedbin",
-              "description": "RSS reader Unknown",
+              "description": "RSS reader  Unknown",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1071,7 +1071,7 @@
             {
               "node_type": "item",
               "title": "HackerNews Node",
-              "description": "Api to get related articles about Node.js in Hacker News No",
+              "description": "Api to get related articles about Node.js in Hacker News  No",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1116,7 +1116,7 @@
             {
               "node_type": "item",
               "title": "The Old Reader",
-              "description": "RSS reader Unknown",
+              "description": "RSS reader  Unknown",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1125,7 +1125,7 @@
                 "last_commit": "2016-10-04T13:27:51Z",
                 "owner": "theoldreader",
                 "repo": "api",
-                "stars": 201
+                "stars": 202
               }
             }
           ],
@@ -1138,7 +1138,7 @@
             {
               "node_type": "item",
               "title": "DataStream",
-              "description": "An open access platform for sharing Canadian water quality data Yes",
+              "description": "An open access platform for sharing Canadian water quality data  Yes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1199,7 +1199,7 @@
                 "last_commit": "2026-07-31T00:50:25Z",
                 "owner": "anuraghazra",
                 "repo": "github-readme-stats",
-                "stars": 79826
+                "stars": 79829
               }
             }
           ],
@@ -1212,7 +1212,7 @@
             {
               "node_type": "item",
               "title": "Medium",
-              "description": "Community of readers and writers offering unique perspectives on ideas Unknown",
+              "description": "Community of readers and writers offering unique perspectives on ideas  Unknown",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1251,7 +1251,7 @@
                 "last_commit": "2024-01-14T17:33:47Z",
                 "owner": "lukePeavey",
                 "repo": "quotable",
-                "stars": 2093
+                "stars": 2094
               }
             },
             {
@@ -1310,7 +1310,7 @@
                 "last_commit": "2026-08-23T21:32:09Z",
                 "owner": "DenverCoder1",
                 "repo": "readme-typing-svg",
-                "stars": 9254
+                "stars": 9258
               }
             }
           ],
@@ -1362,7 +1362,7 @@
                 "last_commit": "2024-08-17T01:38:13Z",
                 "owner": "r-spacex",
                 "repo": "SpaceX-API",
-                "stars": 10915
+                "stars": 10916
               }
             },
             {
@@ -1390,7 +1390,7 @@
             {
               "node_type": "item",
               "title": "Application Environment Verification",
-              "description": "Android library and API to verify the safety of user devices, detect rooted devices and other risks Yes",
+              "description": "Android library and API to verify the safety of user devices, detect rooted devices and other risks  Yes",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1405,7 +1405,7 @@
             {
               "node_type": "item",
               "title": "Botd",
-              "description": "Botd is a browser library for JavaScript bot detection Yes",
+              "description": "Botd is a browser library for JavaScript bot detection  Yes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1450,7 +1450,7 @@
             {
               "node_type": "item",
               "title": "Intelligence X",
-              "description": "Perform OSINT via Intelligence X Unknown",
+              "description": "Perform OSINT via Intelligence X  Unknown",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1667,7 +1667,7 @@
                 "last_commit": "2023-10-04T17:59:39Z",
                 "owner": "1pt-co",
                 "repo": "api",
-                "stars": 42
+                "stars": 43
               }
             },
             {
@@ -1859,10 +1859,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T20:47:51.061Z",
+    "last_updated": "2026-08-25T05:47:46.599Z",
     "original_repository": "marcelscruz/public-apis",
     "original_repository_id": 490985210,
-    "original_repository_sha": "bd658cdc401c8b58e37e82dcf055ee49fdbbff2c",
+    "original_repository_sha": "d5f87c35a9a13d1d42c886c589a669eeb1bc9681",
     "enhanced_repository": "enhansome/enhansome-public-apis",
     "enhanced_repository_description": null,
     "title": "Awesome public apis with stars"

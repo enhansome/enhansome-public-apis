@@ -17,7 +17,7 @@
                 "last_commit": "2024-01-24T09:25:35Z",
                 "owner": "justadudewhohacks",
                 "repo": "face-api.js",
-                "stars": 17945
+                "stars": 17946
               }
             }
           ],
@@ -210,7 +210,7 @@
                 "last_commit": "2026-03-15T17:50:02Z",
                 "owner": "fawazahmed0",
                 "repo": "quran-api",
-                "stars": 1168
+                "stars": 1170
               }
             }
           ],
@@ -288,10 +288,10 @@
                 "archived": false,
                 "id": 316913418,
                 "language": null,
-                "last_commit": "2026-08-14T01:36:44Z",
+                "last_commit": "2026-08-27T02:50:51Z",
                 "owner": "binance",
                 "repo": "binance-spot-api-docs",
-                "stars": 4856
+                "stars": 4855
               }
             },
             {
@@ -410,7 +410,7 @@
                 "last_commit": "2026-07-30T15:18:04Z",
                 "owner": "jsdelivr",
                 "repo": "data.jsdelivr.com",
-                "stars": 248
+                "stars": 247
               }
             },
             {
@@ -742,7 +742,7 @@
                 "archived": false,
                 "id": 218856223,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T19:10:23Z",
+                "last_commit": "2026-08-27T11:37:50Z",
                 "owner": "favware",
                 "repo": "graphql-pokemon",
                 "stars": 198
@@ -1199,7 +1199,7 @@
                 "last_commit": "2026-07-31T00:50:25Z",
                 "owner": "anuraghazra",
                 "repo": "github-readme-stats",
-                "stars": 79832
+                "stars": 79840
               }
             }
           ],
@@ -1541,7 +1541,7 @@
                 "last_commit": "2025-01-01T07:55:30Z",
                 "owner": "HackerNews",
                 "repo": "API",
-                "stars": 13276
+                "stars": 13278
               }
             },
             {
@@ -1556,7 +1556,7 @@
                 "last_commit": "2026-08-15T22:52:23Z",
                 "owner": "Phineas",
                 "repo": "lanyard",
-                "stars": 1453
+                "stars": 1454
               }
             }
           ],
@@ -1859,9 +1859,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T23:32:27.798Z",
-    "original_repository": "marcelscruz/public-apis",
-    "original_repository_id": 490985210,
+    "last_updated": "2026-08-27T11:59:46.739Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 490985210,
+      "language": "JavaScript",
+      "last_commit": "2026-08-26T18:06:59Z",
+      "owner": "marcelscruz",
+      "repo": "public-apis",
+      "stars": 9391
+    },
     "original_repository_sha": "eb1b4ab2890b05561b478e7979aeaac00431c89b",
     "enhanced_repository": "enhansome/enhansome-public-apis",
     "enhanced_repository_description": null,

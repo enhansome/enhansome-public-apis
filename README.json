@@ -333,10 +333,10 @@
                 "language": "Ruby",
                 "license": "GPL-2.0",
                 "last_commit": "2026-08-28T21:39:48Z",
-                "open_issues": 4,
+                "open_issues": 3,
                 "owner": "thundercomb",
                 "repo": "poetrydb",
-                "stars": 646,
+                "stars": 648,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -357,7 +357,7 @@
                 "open_issues": 26,
                 "owner": "fawazahmed0",
                 "repo": "quran-api",
-                "stars": 1170,
+                "stars": 1171,
                 "topics": [
                   "al-quran",
                   "api",
@@ -486,7 +486,7 @@
                 "open_issues": 0,
                 "owner": "binance",
                 "repo": "binance-spot-api-docs",
-                "stars": 4856,
+                "stars": 4857,
                 "topics": [
                   "binance-api",
                   "documentation",
@@ -867,7 +867,7 @@
                 "id": 446215325,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-08-28T14:43:57Z",
+                "last_commit": "2026-08-29T11:08:28Z",
                 "open_issues": 6,
                 "owner": "macsplit",
                 "repo": "urltomarkdown",
@@ -1266,7 +1266,7 @@
                 "id": 218856223,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-27T11:37:50Z",
+                "last_commit": "2026-08-29T12:55:36Z",
                 "open_issues": 33,
                 "owner": "favware",
                 "repo": "graphql-pokemon",
@@ -1810,7 +1810,7 @@
                 "open_issues": 11,
                 "owner": "cyberboysumanjay",
                 "repo": "JioSaavnAPI",
-                "stars": 450,
+                "stars": 452,
                 "topics": [
                   "api",
                   "downloadermp3",
@@ -1965,7 +1965,7 @@
                 "open_issues": 11,
                 "owner": "theoldreader",
                 "repo": "api",
-                "stars": 202,
+                "stars": 203,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -2068,7 +2068,7 @@
                 "open_issues": 293,
                 "owner": "anuraghazra",
                 "repo": "github-readme-stats",
-                "stars": 79843,
+                "stars": 79844,
                 "topics": [
                   "dynamic",
                   "profile-readme",
@@ -2246,7 +2246,7 @@
                 "open_issues": 70,
                 "owner": "DenverCoder1",
                 "repo": "readme-typing-svg",
-                "stars": 9270,
+                "stars": 9273,
                 "topics": [
                   "animation",
                   "dynamic",
@@ -2630,7 +2630,7 @@
                 "open_issues": 5,
                 "owner": "HackerNews",
                 "repo": "API",
-                "stars": 13284,
+                "stars": 13285,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -2651,7 +2651,7 @@
                 "open_issues": 10,
                 "owner": "Phineas",
                 "repo": "lanyard",
-                "stars": 1455,
+                "stars": 1456,
                 "topics": [
                   "discord",
                   "discord-rpc",
@@ -3158,7 +3158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:21:23.448Z",
+    "last_updated": "2026-08-29T22:39:37.442Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of public APIs for developers",
@@ -3166,11 +3166,11 @@
       "id": 490985210,
       "language": "JavaScript",
       "license": "MIT",
-      "last_commit": "2026-08-28T11:07:54Z",
-      "open_issues": 52,
+      "last_commit": "2026-08-29T20:07:00Z",
+      "open_issues": 53,
       "owner": "marcelscruz",
       "repo": "public-apis",
-      "stars": 9398,
+      "stars": 9400,
       "topics": [
         "apis",
         "awesome",
@@ -3183,7 +3183,7 @@
         "resources"
       ]
     },
-    "original_repository_sha": "86d7f18f1ca6a90aebc25e29defbcc4962d1464e",
+    "original_repository_sha": "acb2a0ca880c6e2028363f0f16a0a7e3cf809cfe",
     "enhanced_repository": "enhansome/enhansome-public-apis",
     "enhanced_repository_description": null,
     "title": "Awesome public apis with stars"

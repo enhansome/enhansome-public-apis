@@ -12,12 +12,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js",
+                "homepage": null,
                 "id": 134035452,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-01-24T09:25:35Z",
+                "open_issues": 475,
                 "owner": "justadudewhohacks",
                 "repo": "face-api.js",
-                "stars": 17944
+                "stars": 17944,
+                "topics": [
+                  "age-estimation",
+                  "emotion-recognition",
+                  "face-detection",
+                  "face-landmarks",
+                  "face-recognition",
+                  "gender-recognition",
+                  "javascript",
+                  "js",
+                  "nodejs",
+                  "tensorflow",
+                  "tensorflowjs",
+                  "tfjs"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             }
@@ -35,12 +53,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐈 a simple api which returns a catfact",
+                "homepage": "https://meowfacts.herokuapp.com/",
                 "id": 205547429,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-06-04T07:15:44Z",
+                "open_issues": 22,
                 "owner": "wh-iterabb-it",
                 "repo": "meowfacts",
-                "stars": 548
+                "stars": 548,
+                "topics": [
+                  "api",
+                  "catfacts",
+                  "hacktoberfest",
+                  "js-api-examples",
+                  "learning-by-doing",
+                  "restful-api"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -51,12 +81,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Description of download interface to build calls to the Movebank database using HTTP/CSV or JSON/JavaScript requests",
+                "homepage": null,
                 "id": 45835251,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-01-02T14:12:14Z",
+                "open_issues": 14,
                 "owner": "movebank",
                 "repo": "movebank-api-doc",
-                "stars": 192
+                "stars": 192,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             }
@@ -74,12 +109,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AniList API documentation",
+                "homepage": "https://docs.anilist.co",
                 "id": 95210824,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-08-18T00:20:59Z",
+                "open_issues": 68,
                 "owner": "AniList",
                 "repo": "docs",
-                "stars": 1321
+                "stars": 1321,
+                "topics": [
+                  "anichart",
+                  "anilist",
+                  "anime",
+                  "api",
+                  "documentation",
+                  "graphql",
+                  "manga"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             }
@@ -97,12 +145,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple & free HTTP API with emojis for your cool apps",
+                "homepage": "https://emojihub.yurace.pro/api/random",
                 "id": 439691139,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2025-09-27T14:17:02Z",
+                "open_issues": 0,
                 "owner": "cheatsnake",
                 "repo": "emojihub",
-                "stars": 216
+                "stars": 216,
+                "topics": [
+                  "api",
+                  "emoji",
+                  "emoji-list",
+                  "emoji-unicode",
+                  "free",
+                  "nestjs",
+                  "public-api",
+                  "random",
+                  "typescripts"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -113,12 +176,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "API documentation for https://www.harvardartmuseums.org",
+                "homepage": null,
                 "id": 28979124,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-03T14:08:04Z",
+                "open_issues": 19,
                 "owner": "harvardartmuseums",
                 "repo": "api-docs",
-                "stars": 422
+                "stars": 422,
+                "topics": [
+                  "api",
+                  "iiif",
+                  "museum"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -129,12 +201,31 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "🌈 HTTP API for generating & converting colors.",
+                "homepage": null,
                 "id": 427731786,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-30T10:42:54Z",
+                "open_issues": 1,
                 "owner": "cheatsnake",
                 "repo": "xColors-api",
-                "stars": 42
+                "stars": 42,
+                "topics": [
+                  "api",
+                  "colors",
+                  "converter",
+                  "express",
+                  "free",
+                  "herokuapp",
+                  "hex",
+                  "hsl",
+                  "nodejs",
+                  "random",
+                  "rgb",
+                  "ts-node",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             }
@@ -152,12 +243,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Documentation for Crossref's REST API. For questions or suggestions, see https://community.crossref.org/",
+                "homepage": null,
                 "id": 13147568,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2024-09-25T19:38:12Z",
+                "open_issues": 126,
                 "owner": "CrossRef",
                 "repo": "rest-api-doc",
-                "stars": 800
+                "stars": 800,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -168,12 +264,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A REST Harry Potter API with images and information about books, characters and spells. Translated to many languages.",
+                "homepage": "https://potterapi-fedeperin.vercel.app",
                 "id": 731420531,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-18T17:37:22Z",
+                "open_issues": 0,
                 "owner": "fedeperin",
                 "repo": "potterapi",
-                "stars": 124
+                "stars": 124,
+                "topics": [
+                  "api",
+                  "espanol",
+                  "express-api",
+                  "expressjs",
+                  "francais",
+                  "french",
+                  "french-language",
+                  "french-translation",
+                  "harry-potter",
+                  "harry-potter-api",
+                  "harrypotter",
+                  "italian",
+                  "portuguese",
+                  "potter",
+                  "potter-api",
+                  "rest",
+                  "rest-api",
+                  "serverless-functions",
+                  "spanish",
+                  "vercel-deployment"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -184,12 +306,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Backend specific project",
+                "homepage": "https://library-management-api-i6if.onrender.com",
                 "id": 990800203,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2025-06-24T12:30:35Z",
+                "open_issues": 0,
                 "owner": "adam-dev2",
                 "repo": "library-management-api",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -200,12 +327,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Internet's first Poetry API",
+                "homepage": "http://poetrydb.org",
                 "id": 25177924,
                 "language": "Ruby",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-28T21:39:48Z",
+                "open_issues": 4,
                 "owner": "thundercomb",
                 "repo": "poetrydb",
-                "stars": 646
+                "stars": 646,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -216,12 +348,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free Quran API Service with 90+ different languages and 400+ translations",
+                "homepage": null,
                 "id": 285650585,
                 "language": null,
+                "license": "Unlicense",
                 "last_commit": "2026-03-15T17:50:02Z",
+                "open_issues": 26,
                 "owner": "fawazahmed0",
                 "repo": "quran-api",
-                "stars": 1170
+                "stars": 1170,
+                "topics": [
+                  "al-quran",
+                  "api",
+                  "free",
+                  "quran",
+                  "quran-api",
+                  "quran-digital",
+                  "quran-info",
+                  "quran-json",
+                  "quran-offline",
+                  "quran-online",
+                  "quran-text",
+                  "quran-translation",
+                  "quran-transliteration"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             }
@@ -239,12 +390,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open repository of non-working days ics files",
+                "homepage": null,
                 "id": 49778042,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-04-25T15:40:05Z",
+                "open_issues": 1,
                 "owner": "gadael",
                 "repo": "icsdb",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "europe",
+                  "icalendar",
+                  "ics",
+                  "non-working"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -255,12 +416,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Work calendar service",
+                "homepage": null,
                 "id": 135658177,
                 "language": "Python",
+                "license": "LGPL-3.0",
                 "last_commit": "2021-03-31T13:02:43Z",
+                "open_issues": 1,
                 "owner": "egno",
                 "repo": "work-calendar",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             }
@@ -278,12 +444,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "fastest way to check and compare ec2 and other aws service pricing",
+                "homepage": "https://ec2.shop",
                 "id": 275850045,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-02-28T07:28:53Z",
+                "open_issues": 6,
                 "owner": "yeo",
                 "repo": "ec2.shop",
-                "stars": 117
+                "stars": 117,
+                "topics": [
+                  "aws",
+                  "devops",
+                  "ec2",
+                  "ec2-price"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             }
@@ -301,12 +477,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Documentation for the Binance Spot APIs and Streams ",
+                "homepage": null,
                 "id": 316913418,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-27T02:50:51Z",
+                "open_issues": 0,
                 "owner": "binance",
                 "repo": "binance-spot-api-docs",
-                "stars": 4856
+                "stars": 4856,
+                "topics": [
+                  "binance-api",
+                  "documentation",
+                  "fix-api",
+                  "rest-api",
+                  "sbe",
+                  "spot",
+                  "testnet",
+                  "websocket"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -317,12 +507,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Viewer of Ethereum tokens and transactions based on ERC20 standard. ",
+                "homepage": "https://ethplorer.io",
                 "id": 63941082,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2023-10-17T11:34:27Z",
+                "open_issues": 16,
                 "owner": "EverexIO",
                 "repo": "Ethplorer",
-                "stars": 850
+                "stars": 850,
+                "topics": [
+                  "blockchain",
+                  "ethereum",
+                  "ethereum-contract",
+                  "ethereum-explorer",
+                  "ethereum-token",
+                  "tokens"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -333,12 +535,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Documentation for the Indodax APIs",
+                "homepage": "https://indodax.com",
                 "id": 216516213,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-19T10:39:38Z",
+                "open_issues": 17,
                 "owner": "btcid",
                 "repo": "indodax-official-api-docs",
-                "stars": 172
+                "stars": 172,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             }
@@ -356,12 +563,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free Currency Exchange Rates API with 150+ Currencies & No Rate Limits",
+                "homepage": null,
                 "id": 766680419,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-07-29T11:48:27Z",
+                "open_issues": 0,
                 "owner": "fawazahmed0",
                 "repo": "currency-api",
-                "stars": 92
+                "stars": 92,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             }
@@ -379,12 +591,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "random string generator API",
+                "homepage": "https://ciprand.p3p.repl.co?",
                 "id": 368645125,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2021-06-26T11:18:20Z",
+                "open_issues": 0,
                 "owner": "polarspetroll",
                 "repo": "ciprand",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "api",
+                  "golang",
+                  "random-number-generators",
+                  "randomization",
+                  "reverseproxy",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -395,12 +619,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Get IP Address, TimeStamp, User Agent, Country Code, IATA, HTTP Version, TLS/SSL Version & more by Cloudflare",
+                "homepage": "https://one.one.one.one/cdn-cgi/trace",
                 "id": 383330341,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-08-20T20:18:33Z",
+                "open_issues": 4,
                 "owner": "fawazahmed0",
                 "repo": "cloudflare-trace-api",
-                "stars": 194
+                "stars": 194,
+                "topics": [
+                  "cloudflare-api",
+                  "country",
+                  "epoch-time",
+                  "geolocation",
+                  "ipaddress",
+                  "timestamp",
+                  "useragent"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -411,12 +648,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 217963831,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-12-11T11:07:55Z",
+                "open_issues": 6,
                 "owner": "burhanuday",
                 "repo": "cors-proxy",
-                "stars": 54
+                "stars": 54,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -427,12 +669,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The public jsDelivr API. Get npm packages, files, versions, entry points, as well as their CDN URLs and download stats.",
+                "homepage": "https://www.jsdelivr.com/docs/data.jsdelivr.com",
                 "id": 97043763,
                 "language": "JavaScript",
+                "license": "OSL-3.0",
                 "last_commit": "2026-07-30T15:18:04Z",
+                "open_issues": 7,
                 "owner": "jsdelivr",
                 "repo": "data.jsdelivr.com",
-                "stars": 247
+                "stars": 247,
+                "topics": [
+                  "api",
+                  "esm",
+                  "github",
+                  "javascript",
+                  "npm",
+                  "statistics"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -443,12 +697,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "npm registry documentation",
+                "homepage": null,
                 "id": 145766570,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-06-02T19:19:54Z",
+                "open_issues": 7,
                 "owner": "npm",
                 "repo": "registry",
-                "stars": 496
+                "stars": 496,
+                "topics": [
+                  "docs",
+                  "documentation",
+                  "npm",
+                  "presentations",
+                  "registry",
+                  "wiki"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -459,12 +725,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An API that returns randomized messages for past-due invoices.",
+                "homepage": "https://puaas.sticknologic.is-a.dev/",
                 "id": 1141244758,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2026-05-30T07:21:58Z",
+                "open_issues": 1,
                 "owner": "STICKnoLOGIC",
                 "repo": "payus-as-a-service",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -475,12 +746,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An api to convert  RSS  feed to JSON",
+                "homepage": "https://morning-earth-19323.herokuapp.com/?feedURL=https://medium.com/feed/@ayusharma.in",
                 "id": 90523407,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-01-13T21:17:37Z",
+                "open_issues": 3,
                 "owner": "ayusharma",
                 "repo": "RSS-to-JSON",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -491,12 +767,30 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "HTTP API for building puzzles",
+                "homepage": null,
                 "id": 507349691,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-05-30T10:50:40Z",
+                "open_issues": 2,
                 "owner": "cheatsnake",
                 "repo": "shadify",
-                "stars": 42
+                "stars": 42,
+                "topics": [
+                  "api",
+                  "backend",
+                  "backend-api",
+                  "backend-service",
+                  "fiber",
+                  "games",
+                  "generator",
+                  "golang",
+                  "json-api",
+                  "puzzles",
+                  "server-side",
+                  "server-side-generation"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -507,12 +801,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A rapid API for the Project Sonar dataset",
+                "homepage": null,
                 "id": 246370708,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2023-05-05T02:32:23Z",
+                "open_issues": 28,
                 "owner": "Cgboal",
                 "repo": "SonarSearch",
-                "stars": 653
+                "stars": 653,
+                "topics": [
+                  "bugbounty",
+                  "dns",
+                  "enumeration",
+                  "osint",
+                  "osint-tool",
+                  "penetration-testing",
+                  "penetration-testing-tools",
+                  "rapid7",
+                  "sonar-api",
+                  "subdomain",
+                  "subdomain-enumeration"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -523,12 +834,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Social Compilation Service",
+                "homepage": "https://wandbox.org/",
                 "id": 3457601,
                 "language": "TypeScript",
+                "license": "BSL-1.0",
                 "last_commit": "2026-05-20T00:53:21Z",
+                "open_issues": 48,
                 "owner": "melpon",
                 "repo": "wandbox",
-                "stars": 1265
+                "stars": 1265,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             }
@@ -546,12 +862,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Web service for web page to Markdown conversion",
+                "homepage": "https://urltomarkdown.com",
                 "id": 446215325,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-08-28T14:43:57Z",
+                "open_issues": 6,
                 "owner": "macsplit",
                 "repo": "urltomarkdown",
-                "stars": 355
+                "stars": 355,
+                "topics": [
+                  "heroku",
+                  "markdown-converter",
+                  "openapi",
+                  "stable",
+                  "web-service"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             }
@@ -569,12 +896,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Corporate Bullshit(BuzzWord) Generator API",
+                "homepage": "https://corporatebs-generator.sameerkumar.website",
                 "id": 140418219,
                 "language": "JavaScript",
+                "license": "BSD-3-Clause",
                 "last_commit": "2023-04-13T10:06:15Z",
+                "open_issues": 2,
                 "owner": "sameerkumar18",
                 "repo": "corporate-bs-generator-api",
-                "stars": 354
+                "stars": 354,
+                "topics": [
+                  "api",
+                  "bullshit",
+                  "express",
+                  "expressjs",
+                  "javascript",
+                  "newbie",
+                  "nodejs",
+                  "webapi"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -585,12 +926,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple REST API for fetching \"Yo Mama\" jokes across various categories.",
+                "homepage": "https://yo-mama.tankobliterator.net",
                 "id": 1185647001,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-01T15:22:16Z",
+                "open_issues": 0,
                 "owner": "TankObliterator",
                 "repo": "yo-mama-api",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             }
@@ -608,12 +954,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free Investment Principles API - Curated wisdom from Buffett, Munger & more | keeprule.com",
+                "homepage": "https://keeprule.com",
                 "id": 1189329392,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2026-03-23T14:45:31Z",
+                "open_issues": 0,
                 "owner": "henu-wang",
                 "repo": "keeprule-api",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "api",
+                  "buffett",
+                  "finance",
+                  "financial-literacy",
+                  "investing",
+                  "investment-principles",
+                  "investment-quotes",
+                  "json-api",
+                  "keeprule",
+                  "munger",
+                  "open-api",
+                  "portfolio",
+                  "rest-api",
+                  "stock-market",
+                  "value-investing",
+                  "warren-buffett"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -624,12 +992,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Public websocket API to get datas from financial markets",
+                "homepage": "https://realtimefinance.io",
                 "id": 280400063,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-02-24T14:51:54Z",
+                "open_issues": 0,
                 "owner": "Real-time-finance",
                 "repo": "finance-websocket-API",
-                "stars": 116
+                "stars": 116,
+                "topics": [
+                  "api",
+                  "finance",
+                  "financial-data",
+                  "financial-markets",
+                  "forex",
+                  "livedata",
+                  "market-data",
+                  "public-api",
+                  "real-time",
+                  "realtime",
+                  "stock-market",
+                  "stocks",
+                  "websocket",
+                  "websocket-api"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             }
@@ -647,12 +1035,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Node.js/Express.js REST API to GET a random picture of food dishes.",
+                "homepage": "https://foodish-api.com",
                 "id": 302981566,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-11T23:17:52Z",
+                "open_issues": 2,
                 "owner": "surhud004",
                 "repo": "Foodish",
-                "stars": 126
+                "stars": 126,
+                "topics": [
+                  "food",
+                  "foodish",
+                  "foodish-api",
+                  "hacktoberfest2020",
+                  "pictures",
+                  "random",
+                  "rest-api"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -663,12 +1064,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "REST API for BrewDog's DIY Dog beer catalog",
+                "homepage": null,
                 "id": 900943508,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-26T19:14:15Z",
+                "open_issues": 0,
                 "owner": "alxiw",
                 "repo": "punkapi",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "api",
+                  "async",
+                  "beer",
+                  "brewdog",
+                  "fastapi",
+                  "freeapi",
+                  "json",
+                  "punkapi",
+                  "python",
+                  "rest-api"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -679,12 +1096,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An API for random taco recipes",
+                "homepage": null,
                 "id": 14133506,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-08-19T12:59:04Z",
+                "open_issues": 6,
                 "owner": "evz",
                 "repo": "tacofancy-api",
-                "stars": 131
+                "stars": 131,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -695,12 +1117,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "API of The Report Of The Week Reviews",
+                "homepage": "https://www.thereportoftheweekapi.com/docs",
                 "id": 55330319,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-23T17:19:47Z",
+                "open_issues": 2,
                 "owner": "andyklimczak",
                 "repo": "TheReportOfTheWeek-API",
-                "stars": 60
+                "stars": 60,
+                "topics": [
+                  "api",
+                  "drink",
+                  "food",
+                  "report",
+                  "review",
+                  "youtube"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             }
@@ -718,12 +1152,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unofficial Autochess VNG API",
+                "homepage": null,
                 "id": 353364572,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-08-09T09:03:40Z",
+                "open_issues": 0,
                 "owner": "namakurohman93",
                 "repo": "autochess-vng-api",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -734,12 +1173,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Track and hold discussion on Barter.vg bugs, enhancements, and other issues",
+                "homepage": "https://barter.vg",
                 "id": 193365657,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2023-02-08T18:07:55Z",
+                "open_issues": 153,
                 "owner": "bartervg",
                 "repo": "barter.vg",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "barter",
+                  "games",
+                  "trading-platform"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -750,12 +1198,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "open-source api character information from blue archive game.",
+                "homepage": "https://api-blue-archive.vercel.app",
                 "id": 555906631,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-04T04:48:13Z",
+                "open_issues": 7,
                 "owner": "arufars",
                 "repo": "api-blue-archive",
-                "stars": 44
+                "stars": 44,
+                "topics": [
+                  "anime",
+                  "api",
+                  "api-rest",
+                  "blue-archive",
+                  "bluearchive",
+                  "free-api",
+                  "game",
+                  "rest-api"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -766,12 +1228,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Random Geek Jokes REST API",
+                "homepage": "https://geek-jokes.sameerkumar.website",
                 "id": 94578448,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-03-23T15:36:56Z",
+                "open_issues": 19,
                 "owner": "sameerkumar18",
                 "repo": "geek-joke-api",
-                "stars": 127
+                "stars": 127,
+                "topics": [
+                  "entertainment",
+                  "flask",
+                  "flask-api",
+                  "flask-restful",
+                  "forthebadge",
+                  "fun",
+                  "funny",
+                  "geek",
+                  "geek-jokes",
+                  "jokes",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -782,12 +1261,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extensive Pokémon GraphQL API",
+                "homepage": "http://graphql-pokemon.js.org/",
                 "id": 218856223,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T11:37:50Z",
+                "open_issues": 33,
                 "owner": "favware",
                 "repo": "graphql-pokemon",
-                "stars": 198
+                "stars": 198,
+                "topics": [
+                  "favware",
+                  "graphql",
+                  "graphql-pokemon",
+                  "hacktoberfest",
+                  "pokemon",
+                  "showdown",
+                  "smogon"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -798,12 +1290,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GW2Spidy - Guild Wars 2 Tradingpost Graphs",
+                "homepage": "http://www.gw2spidy.com",
                 "id": 5021035,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2023-01-25T19:07:40Z",
+                "open_issues": 69,
                 "owner": "rubensayshi",
                 "repo": "gw2spidy",
-                "stars": 230
+                "stars": 230,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -814,12 +1311,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An API serving data on all in-game items and regions in Breath of the Wild and Tears of the Kingdom.",
+                "homepage": "https://gadhagod.github.io/Hyrule-Compendium-API/#/",
                 "id": 326305501,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-01T01:40:01Z",
+                "open_issues": 2,
                 "owner": "gadhagod",
                 "repo": "Hyrule-Compendium-API",
-                "stars": 214
+                "stars": 214,
+                "topics": [
+                  "botw",
+                  "breath-of-the-wild",
+                  "hyrule-compendium",
+                  "hyrule-compendium-api",
+                  "rockset",
+                  "tears-of-the-kingdom",
+                  "totk",
+                  "zelda"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -830,12 +1341,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔴  The Unofficial GraphQL for PokeAPI",
+                "homepage": "https://gql-poke.mazipan.space",
                 "id": 239970041,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-11T06:51:11Z",
+                "open_issues": 2,
                 "owner": "mazipan",
                 "repo": "graphql-pokeapi",
-                "stars": 189
+                "stars": 189,
+                "topics": [
+                  "graphql-api",
+                  "hacktoberfest",
+                  "pokeapi",
+                  "pokeapi-graphql",
+                  "pokemon-graphql"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -846,12 +1368,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Puyo Nexus (unofficial) database scraper API.",
+                "homepage": null,
                 "id": 356762643,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-07-24T09:53:20Z",
+                "open_issues": 0,
                 "owner": "deltadex7",
                 "repo": "puyodb-api-deno",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -862,12 +1389,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://protected-taiga-89091.herokuapp.com/",
                 "id": 342618063,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2021-08-27T01:04:45Z",
+                "open_issues": 5,
                 "owner": "JessVel",
                 "repo": "sakura-card-captor-api",
-                "stars": 67
+                "stars": 67,
+                "topics": [
+                  "express",
+                  "heroku",
+                  "javascript",
+                  "mongodb",
+                  "nodejs"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -878,12 +1416,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Documenting the unofficial and internal Steam Web API",
+                "homepage": "https://github.com/Revadike/InternalSteamWebAPI/wiki",
                 "id": 365224400,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2022-03-26T00:37:07Z",
+                "open_issues": 2,
                 "owner": "Revadike",
                 "repo": "InternalSteamWebAPI",
-                "stars": 642
+                "stars": 642,
+                "topics": [
+                  "api",
+                  "api-docs",
+                  "api-documentation",
+                  "docs",
+                  "documentation",
+                  "hacktoberfest",
+                  "reverse-engineering",
+                  "steam",
+                  "steam-api",
+                  "steam-web-api",
+                  "steamapi",
+                  "steampowered",
+                  "web-api",
+                  "webapi",
+                  "wiki"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -894,12 +1453,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "When is the next MCU film? A simple but powerful API wrapper for TMDB lists. Self-hostable with Docker Compose",
+                "homepage": "http://whenisthenextmcufilm.com",
                 "id": 259080904,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-23T05:22:30Z",
+                "open_issues": 3,
                 "owner": "DiljotSG",
                 "repo": "MCU-Countdown",
-                "stars": 231
+                "stars": 231,
+                "topics": [
+                  "api",
+                  "docker",
+                  "docker-compose",
+                  "flask",
+                  "home-lab",
+                  "python3",
+                  "tmdb-api"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             }
@@ -917,12 +1489,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Administrative regions as a JSON API over Github/Cloudflare CDN",
+                "homepage": null,
                 "id": 335397351,
                 "language": "JavaScript",
+                "license": "Unlicense",
                 "last_commit": "2022-10-19T09:05:08Z",
+                "open_issues": 0,
                 "owner": "kamikazechaser",
                 "repo": "administrative-divisions-db",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "geocoding",
+                  "geolocation",
+                  "geonames"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -933,12 +1514,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create live, community-driven, and anonymous maps and markers for anything.",
+                "homepage": "https://app.cartes.io",
                 "id": 187368569,
                 "language": "PHP",
+                "license": "GPL-3.0",
                 "last_commit": "2024-12-10T00:14:43Z",
+                "open_issues": 5,
                 "owner": "M-Media-Group",
                 "repo": "Cartes.io",
-                "stars": 127
+                "stars": 127,
+                "topics": [
+                  "geolocation",
+                  "geoscience",
+                  "geospatial",
+                  "laravel",
+                  "mapping",
+                  "maps"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -949,12 +1542,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An easy to use GraphQL API to query country-related data for free and without restrictions",
+                "homepage": null,
                 "id": 256536967,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-01-06T03:38:51Z",
+                "open_issues": 31,
                 "owner": "lennertVanSever",
                 "repo": "graphcountries",
-                "stars": 81
+                "stars": 81,
+                "topics": [
+                  "countries-api",
+                  "currencies",
+                  "flags",
+                  "graph-algorithms",
+                  "graphql",
+                  "languages",
+                  "neo4j",
+                  "timezones"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -965,12 +1572,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A REST API for the SEPOMEX database",
+                "homepage": null,
                 "id": 39113829,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-08-24T02:32:42Z",
+                "open_issues": 15,
                 "owner": "IcaliaLabs",
                 "repo": "sepomex",
-                "stars": 105
+                "stars": 105,
+                "topics": [
+                  "api",
+                  "grape",
+                  "json",
+                  "mexico",
+                  "rest-api",
+                  "ruby",
+                  "sepomex",
+                  "zip-code"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -981,12 +1602,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stadt Land Fluss Lösung in kompakter Form 🇩🇪",
+                "homepage": "https://slftool.github.io",
                 "id": 174743979,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-06-13T10:01:52Z",
+                "open_issues": 0,
                 "owner": "slftool",
                 "repo": "slftool.github.io",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "android-app",
+                  "deutsch",
+                  "german",
+                  "hacktoberfest",
+                  "online",
+                  "stadtlandfluss"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             }
@@ -1004,12 +1637,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A static API for US election registration deadline info 🗳",
+                "homepage": null,
                 "id": 533268464,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-01-27T02:42:37Z",
+                "open_issues": 0,
                 "owner": "dedline-io",
                 "repo": "dedline-api",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "civic-tech",
+                  "democracy",
+                  "elections",
+                  "open-source",
+                  "static-api",
+                  "united-states"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             }
@@ -1027,12 +1672,33 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "This is the code running in AWS Lambda powering covid-api.mmediagroup.fr/v1. The API provides realtime and historical data on Coronavirus COVID-19 confirmed cases, deaths, and recovered cases. This API has now been called over 40 million times, thank you!",
+                "homepage": "https://covid-api.mmediagroup.fr/v1/cases",
                 "id": 248739703,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2022-10-19T11:47:12Z",
+                "open_issues": 2,
                 "owner": "M-Media-Group",
                 "repo": "Covid-19-API",
-                "stars": 389
+                "stars": 389,
+                "topics": [
+                  "api",
+                  "aws",
+                  "aws-lambda",
+                  "aws-lambda-python",
+                  "coronavirus",
+                  "coronavirus-api",
+                  "covid",
+                  "covid-19",
+                  "covid-api",
+                  "covid19",
+                  "covid19-data",
+                  "covid19-tracker",
+                  "historical-data",
+                  "python3",
+                  "realtime-data"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -1043,12 +1709,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "COVID-19 global data (from JHU CSSE for now) as-a-service",
+                "homepage": "https://covid19.mathdro.id",
                 "id": 244649309,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2023-03-27T22:09:13Z",
+                "open_issues": 71,
                 "owner": "mathdroid",
                 "repo": "covid-19-api",
-                "stars": 1352
+                "stars": 1352,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -1059,12 +1730,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "💊 Unofficial Covid-19 Web API for Philippines from data collected by DOH using Node.js that updates itself as soon as DOH released new Data.",
+                "homepage": "https://covid19-api-philippines.herokuapp.com",
                 "id": 280135866,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2021-04-08T14:47:12Z",
+                "open_issues": 3,
                 "owner": "Simperfy",
                 "repo": "Covid-19-API-Philippines-DOH",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "covid",
+                  "covid-19",
+                  "covid-19-api",
+                  "covid-api",
+                  "covid19-philippines",
+                  "doh-data-drop",
+                  "mongodb",
+                  "nodejs",
+                  "philippines"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             }
@@ -1082,12 +1768,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unofficial Gaana API",
+                "homepage": null,
                 "id": 188310955,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-10-01T00:57:27Z",
+                "open_issues": 4,
                 "owner": "cyberboysumanjay",
                 "repo": "GaanaAPI",
-                "stars": 150
+                "stars": 150,
+                "topics": [
+                  "api",
+                  "flask",
+                  "gaana",
+                  "gaanaextractor",
+                  "information-retrieval",
+                  "music",
+                  "python",
+                  "python3",
+                  "rest-api",
+                  "song",
+                  "songs"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -1098,12 +1801,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An unofficial API for JioSaavn written in Python 3",
+                "homepage": "https://saavnapi-nine.vercel.app",
                 "id": 199725109,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-08-08T19:57:20Z",
+                "open_issues": 11,
                 "owner": "cyberboysumanjay",
                 "repo": "JioSaavnAPI",
-                "stars": 450
+                "stars": 450,
+                "topics": [
+                  "api",
+                  "downloadermp3",
+                  "flask",
+                  "flask-api",
+                  "flask-application",
+                  "jio",
+                  "jio-saavn",
+                  "jiosaavn",
+                  "jiosaavn-downloader",
+                  "mp3",
+                  "music",
+                  "python",
+                  "python3",
+                  "saavn",
+                  "stream",
+                  "streaming-api",
+                  "streaming-audio"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             }
@@ -1121,12 +1847,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Feedbin API Documentation",
+                "homepage": null,
                 "id": 7986664,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-02-10T06:30:03Z",
+                "open_issues": 20,
                 "owner": "feedbin",
                 "repo": "feedbin-api",
-                "stars": 407
+                "stars": 407,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -1137,12 +1868,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "API Rest to get related articles about Node.js in Hacker News",
+                "homepage": "https://edixonalberto.github.io/api-hackernews-node/index.html",
                 "id": 489782685,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2023-01-26T04:29:36Z",
+                "open_issues": 0,
                 "owner": "EdixonAlberto",
                 "repo": "api-hackernews-node",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "api",
+                  "docker",
+                  "docker-compose",
+                  "gitlab-pipeline",
+                  "graphql",
+                  "hackernews",
+                  "jwt-auth",
+                  "nest",
+                  "news",
+                  "node",
+                  "portfolio",
+                  "restful-api",
+                  "swagger-specification",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -1153,12 +1904,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unofficial API of Inshorts written in Flask",
+                "homepage": "https://inshorts.deta.dev",
                 "id": 247700168,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-09-28T06:20:28Z",
+                "open_issues": 10,
                 "owner": "cyberboysumanjay",
                 "repo": "Inshorts-News-API",
-                "stars": 285
+                "stars": 285,
+                "topics": [
+                  "api",
+                  "flask",
+                  "india",
+                  "inshorts",
+                  "news",
+                  "news-api",
+                  "newsapi",
+                  "python",
+                  "shortnews"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -1169,12 +1935,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unofficial wrapper for Substack's API",
+                "homepage": "https://www.nickhagar.net/substack_api/",
                 "id": 637539088,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-29T13:59:07Z",
+                "open_issues": 1,
                 "owner": "NHagar",
                 "repo": "substack_api",
-                "stars": 222
+                "stars": 222,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -1185,12 +1956,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Old Reader API",
+                "homepage": "https://theoldreader.com",
                 "id": 10734931,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2016-10-04T13:27:51Z",
+                "open_issues": 11,
                 "owner": "theoldreader",
                 "repo": "api",
-                "stars": 202
+                "stars": 202,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             }
@@ -1208,12 +1984,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DataStream Public API Documentation",
+                "homepage": "https://datasteam.org",
                 "id": 308393711,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-24T13:24:30Z",
+                "open_issues": 1,
                 "owner": "datastreamapp",
                 "repo": "api-docs",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "api",
+                  "odata",
+                  "rest",
+                  "wqx"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -1224,12 +2010,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Unoffcial documentation for Lowy Institute's Asia Power Index API",
+                "homepage": null,
                 "id": 442708595,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2021-12-29T13:42:09Z",
+                "open_issues": 0,
                 "owner": "algocry",
                 "repo": "lowy-index-api-docs",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -1240,12 +2031,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "University Domains and Names Data List & API",
+                "homepage": null,
                 "id": 25596429,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-24T19:10:52Z",
+                "open_issues": 47,
                 "owner": "Hipo",
                 "repo": "university-domains-list",
-                "stars": 1649
+                "stars": 1649,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             }
@@ -1263,12 +2059,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":zap: Dynamically generated stats for your github readmes",
+                "homepage": "https://github-readme-stats.vercel.app",
                 "id": 278335273,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-31T00:50:25Z",
+                "open_issues": 293,
                 "owner": "anuraghazra",
                 "repo": "github-readme-stats",
-                "stars": 79844
+                "stars": 79843,
+                "topics": [
+                  "dynamic",
+                  "profile-readme",
+                  "readme-generator",
+                  "readme-stats",
+                  "serverless"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             }
@@ -1286,12 +2093,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Documentation for Medium's OAuth2 API",
+                "homepage": null,
                 "id": 43396022,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-03-02T22:00:44Z",
+                "open_issues": 10,
                 "owner": "Medium",
                 "repo": "medium-api-docs",
-                "stars": 2332
+                "stars": 2332,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -1302,12 +2114,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Programming Quotes API for open source projects.",
+                "homepage": "https://programming-quotes-api.azurewebsites.net",
                 "id": 119674725,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-01-01T13:35:52Z",
+                "open_issues": 7,
                 "owner": "mudroljub",
                 "repo": "programming-quotes-api",
-                "stars": 501
+                "stars": 501,
+                "topics": [
+                  "api",
+                  "nodejs",
+                  "programming-quotes",
+                  "public-api",
+                  "quotes-api"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -1318,12 +2141,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Random Quotes API",
+                "homepage": null,
                 "id": 103797434,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-01-14T17:33:47Z",
+                "open_issues": 62,
                 "owner": "lukePeavey",
                 "repo": "quotable",
-                "stars": 2092
+                "stars": 2092,
+                "topics": [
+                  "api-service",
+                  "freecodecamp",
+                  "json-api",
+                  "rest-api"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -1334,12 +2167,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stoicism Quote Public API ",
+                "homepage": null,
                 "id": 389340103,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-01-01T05:57:00Z",
+                "open_issues": 2,
                 "owner": "tlcheah2",
                 "repo": "stoic-quote-lambda-public-api",
-                "stars": 115
+                "stars": 115,
+                "topics": [
+                  "aws-apigateway",
+                  "aws-lambda",
+                  "backend",
+                  "backend-api",
+                  "expressjs",
+                  "mongodb",
+                  "nodejs",
+                  "serverless-framework"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             }
@@ -1357,12 +2204,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Phone specifications API",
+                "homepage": "https://phone-specs-api-2.azharimm.dev/",
                 "id": 309034539,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-05-16T03:23:46Z",
+                "open_issues": 15,
                 "owner": "azharimm",
                 "repo": "phone-specs-api",
-                "stars": 179
+                "stars": 179,
+                "topics": [
+                  "api",
+                  "express",
+                  "node",
+                  "nodejs"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             }
@@ -1380,12 +2237,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.",
+                "homepage": "https://readme-typing-svg.demolab.com",
                 "id": 359687154,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-23T21:32:09Z",
+                "open_issues": 70,
                 "owner": "DenverCoder1",
                 "repo": "readme-typing-svg",
-                "stars": 9270
+                "stars": 9270,
+                "topics": [
+                  "animation",
+                  "dynamic",
+                  "github",
+                  "hacktoberfest",
+                  "php",
+                  "profile-readme",
+                  "readme",
+                  "svg",
+                  "typing"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             }
@@ -1403,12 +2275,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Server-side code driving iDigBio's search functionality.",
+                "homepage": null,
                 "id": 25606800,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-01-26T16:37:36Z",
+                "open_issues": 40,
                 "owner": "iDigBio",
                 "repo": "idigbio-search-api",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -1419,12 +2296,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Documentation of the INSPIRE REST API",
+                "homepage": "https://inspirehep.net",
                 "id": 269110099,
                 "language": null,
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2025-07-14T11:16:24Z",
+                "open_issues": 5,
                 "owner": "inspirehep",
                 "repo": "rest-api-doc",
-                "stars": 59
+                "stars": 59,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -1435,12 +2317,33 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": ":rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.",
+                "homepage": null,
                 "id": 94811188,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-17T01:38:13Z",
+                "open_issues": 79,
                 "owner": "r-spacex",
                 "repo": "SpaceX-API",
-                "stars": 10913
+                "stars": 10913,
+                "topics": [
+                  "api",
+                  "capsule",
+                  "docker",
+                  "koa",
+                  "launchpad",
+                  "nasa",
+                  "nodejs",
+                  "rest-api",
+                  "restful-api",
+                  "rocket",
+                  "space",
+                  "space-program",
+                  "spacex",
+                  "spacex-api",
+                  "starlink"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -1451,12 +2354,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "API that adds each of the times sent in an array.",
+                "homepage": "https://api-times-adder.up.railway.app/api/v1",
                 "id": 447969423,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2025-12-08T19:21:08Z",
+                "open_issues": 1,
                 "owner": "FranP-code",
                 "repo": "API-Times-Adder",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "api",
+                  "api-rest",
+                  "time",
+                  "time-addition"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             }
@@ -1474,12 +2387,30 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Android library to verify the safety of user devices. Make sure that API calls from your app can be trusted. Instantly detect rooted devices, emulators, cloned apps, and other risk factors.",
+                "homepage": null,
                 "id": 335972296,
                 "language": "Kotlin",
+                "license": "MIT",
                 "last_commit": "2023-03-22T12:37:09Z",
+                "open_issues": 1,
                 "owner": "fingerprintjs",
                 "repo": "aev",
-                "stars": 87
+                "stars": 87,
+                "topics": [
+                  "android",
+                  "android-library",
+                  "app-cloners",
+                  "application-cloners",
+                  "detection",
+                  "emulator",
+                  "factory-reset-detection",
+                  "kotlin",
+                  "location-spoofing",
+                  "root",
+                  "security",
+                  "spoofing"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -1490,12 +2421,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free bot detection library that runs in the browser. Detects automation tools and frameworks. No server required, runs 100% on the client. MIT license, no usage restrictions.",
+                "homepage": null,
                 "id": 346424381,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-11T06:30:36Z",
+                "open_issues": 15,
                 "owner": "fingerprintjs",
                 "repo": "BotD",
-                "stars": 1457
+                "stars": 1457,
+                "topics": [
+                  "automation",
+                  "bot-detection",
+                  "bots",
+                  "headless-chrome",
+                  "playwright",
+                  "puppeteer",
+                  "selenium"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -1506,12 +2450,27 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": ":key: Simple API for enrypting/decrypting text messages",
+                "homepage": null,
                 "id": 431229365,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-04-02T06:49:42Z",
+                "open_issues": 0,
                 "owner": "cheatsnake",
                 "repo": "classify",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "api",
+                  "cryptography",
+                  "decryption",
+                  "encryption",
+                  "free",
+                  "keygen",
+                  "text-messages",
+                  "typescript",
+                  "xor-cipher"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -1522,12 +2481,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An API for escaping different kind of queries",
+                "homepage": "https://s.polarspetroll.repl.co/",
                 "id": 371816396,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2021-06-30T18:38:20Z",
+                "open_issues": 0,
                 "owner": "polarspetroll",
                 "repo": "EscapeAPI",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "api",
+                  "directory-traversal",
+                  "os-command-injection",
+                  "path-traversal",
+                  "security",
+                  "xss"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -1538,12 +2509,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Public SDK for Intelligence X",
+                "homepage": "https://intelx.io",
                 "id": 161177733,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-05-31T02:51:26Z",
+                "open_issues": 37,
                 "owner": "IntelligenceX",
                 "repo": "SDK",
-                "stars": 548
+                "stars": 548,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -1554,12 +2530,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Mozilla HTTP Observatory",
+                "homepage": "https://observatory.mozilla.org/",
                 "id": 51037508,
                 "language": "Python",
+                "license": "MPL-2.0",
                 "last_commit": "2024-10-22T09:18:12Z",
+                "open_issues": 89,
                 "owner": "mozilla",
                 "repo": "http-observatory",
-                "stars": 1850
+                "stars": 1850,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -1570,12 +2551,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An observatory for TLS configurations, X509 certificates, and more.",
+                "homepage": null,
                 "id": 23923847,
                 "language": "Go",
+                "license": "MPL-2.0",
                 "last_commit": "2025-09-23T14:33:32Z",
+                "open_issues": 67,
                 "owner": "mozilla",
                 "repo": "tls-observatory",
-                "stars": 545
+                "stars": 545,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -1586,12 +2572,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple public API that generates random password",
+                "homepage": null,
                 "id": 374983088,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-05-22T05:51:39Z",
+                "open_issues": 2,
                 "owner": "fawazsullia",
                 "repo": "password-generator",
-                "stars": 38
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             }
@@ -1609,12 +2600,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Documentation for 4chan's read-only JSON API.",
+                "homepage": "http://www.4chan.org/",
                 "id": 5290586,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-07T15:42:34Z",
+                "open_issues": 24,
                 "owner": "4chan",
                 "repo": "4chan-API",
-                "stars": 1106
+                "stars": 1106,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -1625,12 +2621,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Documentation and Samples for the Official HN API",
+                "homepage": null,
                 "id": 24732732,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-01-01T07:55:30Z",
+                "open_issues": 5,
                 "owner": "HackerNews",
                 "repo": "API",
-                "stars": 13284
+                "stars": 13284,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -1641,12 +2642,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🏷️   Expose your Discord presence and activities to a RESTful API and WebSocket in less than 10 seconds",
+                "homepage": "https://discord.gg/lanyard",
                 "id": 346433598,
                 "language": "Elixir",
+                "license": "MIT",
                 "last_commit": "2026-08-15T22:52:23Z",
+                "open_issues": 10,
                 "owner": "Phineas",
                 "repo": "lanyard",
-                "stars": 1455
+                "stars": 1455,
+                "topics": [
+                  "discord",
+                  "discord-rpc",
+                  "elixir"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             }
@@ -1664,12 +2674,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "unoffical api for fantasy premier league",
+                "homepage": "https://fpl-api-tau.vercel.app/",
                 "id": 1120994493,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-22T09:21:33Z",
+                "open_issues": 10,
                 "owner": "flavnat",
                 "repo": "footy-api",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -1680,12 +2695,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Display football standings e.g epl, la liga, serie a etc. The data is based on espn site.",
+                "homepage": "https://api-football-standings.azharimm.dev/",
                 "id": 308836785,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2021-10-17T04:06:02Z",
+                "open_issues": 4,
                 "owner": "azharimm",
                 "repo": "football-standings-api",
-                "stars": 119
+                "stars": 119,
+                "topics": [
+                  "api",
+                  "express",
+                  "node",
+                  "nodejs"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             }
@@ -1703,12 +2728,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Transitland v1 core components. Deprecated. See Transitland v2.",
+                "homepage": "https://transit.land/documentation/",
                 "id": 25056419,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2022-02-18T06:19:14Z",
+                "open_issues": 55,
                 "owner": "transitland",
                 "repo": "transitland-datastore",
-                "stars": 105
+                "stars": 105,
+                "topics": [
+                  "datasets",
+                  "geo",
+                  "gtfs",
+                  "open-data",
+                  "transit",
+                  "transportation"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -1719,12 +2756,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An HTTP API for Berlin & Brandenburg public transport.",
+                "homepage": "https://v6.vbb.transport.rest/",
                 "id": 40140481,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2025-10-21T23:03:36Z",
+                "open_issues": 9,
                 "owner": "derhuerst",
                 "repo": "vbb-rest",
-                "stars": 144
+                "stars": 144,
+                "topics": [
+                  "api",
+                  "berlin",
+                  "bvg",
+                  "transit",
+                  "transport",
+                  "vbb"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -1735,12 +2784,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 4511935,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2014-01-22T10:16:28Z",
+                "open_issues": 6,
                 "owner": "koch-t",
                 "repo": "KV78Turbo-OVAPI",
-                "stars": 100
+                "stars": 100,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             }
@@ -1758,12 +2812,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 357933686,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-10-04T17:59:39Z",
+                "open_issues": 5,
                 "owner": "1pt-co",
                 "repo": "api",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -1774,12 +2833,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple and fast URL masker",
+                "homepage": "https://axorax.github.io/urlmskr/",
                 "id": 604519419,
                 "language": "JavaScript",
+                "license": "BSL-1.0",
                 "last_commit": "2025-01-11T11:25:55Z",
+                "open_issues": 0,
                 "owner": "Axorax",
                 "repo": "urlmskr",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "api",
+                  "api-url",
+                  "masker",
+                  "masking",
+                  "url",
+                  "url-api",
+                  "url-mask",
+                  "url-masker",
+                  "url-masking",
+                  "url-shortener",
+                  "urlmasking",
+                  "urlmskr",
+                  "urls",
+                  "urlshortener"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             }
@@ -1797,12 +2876,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple API to retrieve some quotes of Breaking Bad, bitch!",
+                "homepage": "https://breakingbadquotes.xyz/",
                 "id": 82846343,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-08-15T13:02:27Z",
+                "open_issues": 7,
                 "owner": "shevabam",
                 "repo": "breaking-bad-quotes",
-                "stars": 459
+                "stars": 459,
+                "topics": [
+                  "api",
+                  "breaking-bad",
+                  "quotes",
+                  "quotes-api"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -1813,12 +2902,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A basic API to retrieve episode, cast and crew data from Buffy the Vampire Slayer and Angel",
+                "homepage": "https://buffy-angel-api.onrender.com/",
                 "id": 647506318,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-04-29T23:39:43Z",
+                "open_issues": 0,
                 "owner": "Thatskat",
                 "repo": "btvs-angel-api",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "angel",
+                  "api",
+                  "buffy-the-vampire-slayer",
+                  "episodes",
+                  "episodes-api",
+                  "public-api"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -1829,12 +2930,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FREE UnOfficial Movie / Series Search API, without APIKeys",
+                "homepage": "https://imdb.iamidiotareyoutoo.com/docs/index.html",
                 "id": 343028413,
                 "language": null,
+                "license": "AGPL-3.0",
                 "last_commit": "2024-09-20T19:27:09Z",
+                "open_issues": 6,
                 "owner": "TelegramPlayground",
                 "repo": "Free-Movie-Series-DB-API",
-                "stars": 169
+                "stars": 169,
+                "topics": [
+                  "api",
+                  "bot",
+                  "free",
+                  "imdb",
+                  "justwatch",
+                  "letterboxd",
+                  "movie",
+                  "no-api-keys",
+                  "omdb",
+                  "search",
+                  "series",
+                  "streaming",
+                  "telegram",
+                  "tmdb"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -1845,12 +2966,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple API to retrieve some quotes of Lucifer, shawty ! ",
+                "homepage": "https://luciferquotes.vercel.app/",
                 "id": 405990990,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-10-29T11:47:23Z",
+                "open_issues": 1,
                 "owner": "shadowoff09",
                 "repo": "lucifer-quotes",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -1861,12 +2987,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "When is the next MCU film? A simple but powerful API wrapper for TMDB lists. Self-hostable with Docker Compose",
+                "homepage": "http://whenisthenextmcufilm.com",
                 "id": 259080904,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-23T05:22:30Z",
+                "open_issues": 3,
                 "owner": "DiljotSG",
                 "repo": "MCU-Countdown",
-                "stars": 231
+                "stars": 231,
+                "topics": [
+                  "api",
+                  "docker",
+                  "docker-compose",
+                  "flask",
+                  "home-lab",
+                  "python3",
+                  "tmdb-api"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -1877,12 +3016,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Django REST Framework API for random movie/series quotes, with show-based filtering and optional “censored” mode.",
+                "homepage": null,
                 "id": 345958286,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-07T08:49:05Z",
+                "open_issues": 0,
                 "owner": "F4R4N",
                 "repo": "movie-quote",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "api",
+                  "django",
+                  "django-rest-framework",
+                  "fun",
+                  "javascript",
+                  "movie",
+                  "movie-quote",
+                  "opensource",
+                  "python",
+                  "quote",
+                  "series-quotes"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -1893,12 +3049,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Node.js server for providing Ron Swanson quotes",
+                "homepage": "https://ron-swanson-quotes.herokuapp.com/v2/quotes",
                 "id": 29270764,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-19T10:23:23Z",
+                "open_issues": 4,
                 "owner": "jamesseanwright",
                 "repo": "ron-swanson-quotes",
-                "stars": 311
+                "stars": 311,
+                "topics": [
+                  "parks-and-recreation",
+                  "quotes",
+                  "ron-swanson"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -1909,12 +3074,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A pretty simple API to let you retrieve some of the best quotes from South Park, mmkay!",
+                "homepage": "https://southparkquotes.onrender.com/",
                 "id": 659984603,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-03-04T03:49:47Z",
+                "open_issues": 1,
                 "owner": "Thatskat",
                 "repo": "southpark-quotes-api",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "api",
+                  "api-rest",
+                  "quotes",
+                  "quotes-api",
+                  "restful-api",
+                  "southpark"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -1925,12 +3102,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple API to retrieve some quotes of Stranger Things! ",
+                "homepage": "https://strangerthingsquotes.shadowdev.xyz",
                 "id": 406112593,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-03-24T00:20:31Z",
+                "open_issues": 1,
                 "owner": "shadowoff09",
                 "repo": "strangerthings-quotes",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             }
@@ -1948,12 +3130,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A RESTful API to check the weather",
+                "homepage": "https://goweather.xyz/v2/weather/Berlin",
                 "id": 98360812,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2025-10-27T21:07:37Z",
+                "open_issues": 2,
                 "owner": "robertoduessmann",
                 "repo": "weather-api",
-                "stars": 482
+                "stars": 482,
+                "topics": [
+                  "golang",
+                  "weather",
+                  "weather-api"
+                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             }
@@ -1967,15 +3158,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:49:03.419Z",
+    "last_updated": "2026-08-29T04:21:23.448Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collaborative list of public APIs for developers",
+      "homepage": "https://publicapis.dev",
       "id": 490985210,
       "language": "JavaScript",
+      "license": "MIT",
       "last_commit": "2026-08-28T11:07:54Z",
+      "open_issues": 52,
       "owner": "marcelscruz",
       "repo": "public-apis",
-      "stars": 9398
+      "stars": 9398,
+      "topics": [
+        "apis",
+        "awesome",
+        "awesome-list",
+        "hacktoberfest",
+        "lists",
+        "open-source",
+        "public-api",
+        "public-apis",
+        "resources"
+      ]
     },
     "original_repository_sha": "86d7f18f1ca6a90aebc25e29defbcc4962d1464e",
     "enhanced_repository": "enhansome/enhansome-public-apis",

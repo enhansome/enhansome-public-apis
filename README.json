@@ -118,7 +118,7 @@
                 "open_issues": 68,
                 "owner": "AniList",
                 "repo": "docs",
-                "stars": 1322,
+                "stars": 1323,
                 "topics": [
                   "anichart",
                   "anilist",
@@ -357,7 +357,7 @@
                 "open_issues": 27,
                 "owner": "fawazahmed0",
                 "repo": "quran-api",
-                "stars": 1173,
+                "stars": 1174,
                 "topics": [
                   "al-quran",
                   "api",
@@ -482,11 +482,11 @@
                 "id": 316913418,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-08-27T02:50:51Z",
+                "last_commit": "2026-09-01T06:33:15Z",
                 "open_issues": 0,
                 "owner": "binance",
                 "repo": "binance-spot-api-docs",
-                "stars": 4859,
+                "stars": 4861,
                 "topics": [
                   "binance-api",
                   "documentation",
@@ -1044,7 +1044,7 @@
                 "open_issues": 2,
                 "owner": "surhud004",
                 "repo": "Foodish",
-                "stars": 126,
+                "stars": 127,
                 "topics": [
                   "food",
                   "foodish",
@@ -1266,7 +1266,7 @@
                 "id": 218856223,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-30T01:03:10Z",
+                "last_commit": "2026-09-01T18:53:25Z",
                 "open_issues": 33,
                 "owner": "favware",
                 "repo": "graphql-pokemon",
@@ -1577,7 +1577,7 @@
                 "id": 39113829,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-08-24T02:32:42Z",
+                "last_commit": "2026-09-01T06:12:21Z",
                 "open_issues": 15,
                 "owner": "IcaliaLabs",
                 "repo": "sepomex",
@@ -2068,7 +2068,7 @@
                 "open_issues": 293,
                 "owner": "anuraghazra",
                 "repo": "github-readme-stats",
-                "stars": 79843,
+                "stars": 79839,
                 "topics": [
                   "dynamic",
                   "profile-readme",
@@ -2246,7 +2246,7 @@
                 "open_issues": 70,
                 "owner": "DenverCoder1",
                 "repo": "readme-typing-svg",
-                "stars": 9274,
+                "stars": 9277,
                 "topics": [
                   "animation",
                   "dynamic",
@@ -2518,7 +2518,7 @@
                 "open_issues": 37,
                 "owner": "IntelligenceX",
                 "repo": "SDK",
-                "stars": 549,
+                "stars": 550,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -2609,7 +2609,7 @@
                 "open_issues": 24,
                 "owner": "4chan",
                 "repo": "4chan-API",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -2630,7 +2630,7 @@
                 "open_issues": 5,
                 "owner": "HackerNews",
                 "repo": "API",
-                "stars": 13291,
+                "stars": 13293,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -2648,10 +2648,10 @@
                 "language": "Elixir",
                 "license": "MIT",
                 "last_commit": "2026-08-15T22:52:23Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "Phineas",
                 "repo": "lanyard",
-                "stars": 1460,
+                "stars": 1462,
                 "topics": [
                   "discord",
                   "discord-rpc",
@@ -2680,7 +2680,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-08-22T09:21:33Z",
-                "open_issues": 11,
+                "open_issues": 10,
                 "owner": "flavnat",
                 "repo": "footy-api",
                 "stars": 11,
@@ -2821,7 +2821,7 @@
                 "open_issues": 5,
                 "owner": "1pt-co",
                 "repo": "api",
-                "stars": 43,
+                "stars": 44,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -2939,7 +2939,7 @@
                 "open_issues": 6,
                 "owner": "TelegramPlayground",
                 "repo": "Free-Movie-Series-DB-API",
-                "stars": 169,
+                "stars": 170,
                 "topics": [
                   "api",
                   "bot",
@@ -3158,7 +3158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T23:51:00.808Z",
+    "last_updated": "2026-09-01T22:36:42.290Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of public APIs for developers",
@@ -3166,11 +3166,11 @@
       "id": 490985210,
       "language": "JavaScript",
       "license": "MIT",
-      "last_commit": "2026-08-31T20:07:09Z",
-      "open_issues": 53,
+      "last_commit": "2026-09-01T22:12:12Z",
+      "open_issues": 52,
       "owner": "marcelscruz",
       "repo": "public-apis",
-      "stars": 9406,
+      "stars": 9409,
       "topics": [
         "apis",
         "awesome",
@@ -3183,7 +3183,7 @@
         "resources"
       ]
     },
-    "original_repository_sha": "6e2a37c49120cdb76b8c9b857a818c0df3b8f23d",
+    "original_repository_sha": "fdaec69fcf5c62204eb46663f3683a40b31090bc",
     "enhanced_repository": "enhansome/enhansome-public-apis",
     "enhanced_repository_description": null,
     "title": "Awesome public apis with stars"

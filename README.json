@@ -18,10 +18,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2024-01-24T09:25:35Z",
-                "open_issues": 475,
+                "open_issues": 476,
                 "owner": "justadudewhohacks",
                 "repo": "face-api.js",
-                "stars": 17946,
+                "stars": 17945,
                 "topics": [
                   "age-estimation",
                   "emotion-recognition",
@@ -62,7 +62,7 @@
                 "open_issues": 22,
                 "owner": "wh-iterabb-it",
                 "repo": "meowfacts",
-                "stars": 548,
+                "stars": 549,
                 "topics": [
                   "api",
                   "catfacts",
@@ -336,7 +336,7 @@
                 "open_issues": 2,
                 "owner": "thundercomb",
                 "repo": "poetrydb",
-                "stars": 649,
+                "stars": 650,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -357,7 +357,7 @@
                 "open_issues": 27,
                 "owner": "fawazahmed0",
                 "repo": "quran-api",
-                "stars": 1174,
+                "stars": 1175,
                 "topics": [
                   "al-quran",
                   "api",
@@ -482,11 +482,11 @@
                 "id": 316913418,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-09-01T06:33:15Z",
+                "last_commit": "2026-09-02T06:20:05Z",
                 "open_issues": 0,
                 "owner": "binance",
                 "repo": "binance-spot-api-docs",
-                "stars": 4861,
+                "stars": 4862,
                 "topics": [
                   "binance-api",
                   "documentation",
@@ -905,7 +905,7 @@
                 "open_issues": 2,
                 "owner": "sameerkumar18",
                 "repo": "corporate-bs-generator-api",
-                "stars": 354,
+                "stars": 355,
                 "topics": [
                   "api",
                   "bullshit",
@@ -1266,8 +1266,8 @@
                 "id": 218856223,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-01T18:53:25Z",
-                "open_issues": 33,
+                "last_commit": "2026-09-02T20:00:19Z",
+                "open_issues": 34,
                 "owner": "favware",
                 "repo": "graphql-pokemon",
                 "stars": 199,
@@ -1280,27 +1280,6 @@
                   "showdown",
                   "smogon"
                 ]
-              },
-              "first_seen": "2026-08-28T04:22:23.931Z"
-            },
-            {
-              "node_type": "item",
-              "title": "GW2Spidy",
-              "description": "GW2Spidy API, Items data on the Guild Wars 2 Trade Market No Unknown",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "GW2Spidy - Guild Wars 2 Tradingpost Graphs",
-                "homepage": "http://www.gw2spidy.com",
-                "id": 5021035,
-                "language": "PHP",
-                "license": null,
-                "last_commit": "2023-01-25T19:07:40Z",
-                "open_issues": 69,
-                "owner": "rubensayshi",
-                "repo": "gw2spidy",
-                "stars": 230,
-                "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -1320,7 +1299,7 @@
                 "open_issues": 2,
                 "owner": "gadhagod",
                 "repo": "Hyrule-Compendium-API",
-                "stars": 214,
+                "stars": 215,
                 "topics": [
                   "botw",
                   "breath-of-the-wild",
@@ -1425,7 +1404,7 @@
                 "open_issues": 2,
                 "owner": "Revadike",
                 "repo": "InternalSteamWebAPI",
-                "stars": 642,
+                "stars": 643,
                 "topics": [
                   "api",
                   "api-docs",
@@ -1810,7 +1789,7 @@
                 "open_issues": 11,
                 "owner": "cyberboysumanjay",
                 "repo": "JioSaavnAPI",
-                "stars": 453,
+                "stars": 454,
                 "topics": [
                   "api",
                   "downloadermp3",
@@ -2068,7 +2047,7 @@
                 "open_issues": 293,
                 "owner": "anuraghazra",
                 "repo": "github-readme-stats",
-                "stars": 79839,
+                "stars": 79834,
                 "topics": [
                   "dynamic",
                   "profile-readme",
@@ -2104,59 +2083,6 @@
                 "repo": "medium-api-docs",
                 "stars": 2333,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T04:22:23.931Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Programming Quotes",
-              "description": "Programming Quotes API for open source projects No Unknown",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Programming Quotes API for open source projects.",
-                "homepage": "https://programming-quotes-api.azurewebsites.net",
-                "id": 119674725,
-                "language": "JavaScript",
-                "license": null,
-                "last_commit": "2026-01-01T13:35:52Z",
-                "open_issues": 7,
-                "owner": "mudroljub",
-                "repo": "programming-quotes-api",
-                "stars": 501,
-                "topics": [
-                  "api",
-                  "nodejs",
-                  "programming-quotes",
-                  "public-api",
-                  "quotes-api"
-                ]
-              },
-              "first_seen": "2026-08-28T04:22:23.931Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Quotable Quotes",
-              "description": "Quotable is a free, open source quotations API No Unknown",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Random Quotes API",
-                "homepage": null,
-                "id": 103797434,
-                "language": "JavaScript",
-                "license": "MIT",
-                "last_commit": "2024-01-14T17:33:47Z",
-                "open_issues": 62,
-                "owner": "lukePeavey",
-                "repo": "quotable",
-                "stars": 2093,
-                "topics": [
-                  "api-service",
-                  "freecodecamp",
-                  "json-api",
-                  "rest-api"
-                ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
             },
@@ -2246,7 +2172,7 @@
                 "open_issues": 70,
                 "owner": "DenverCoder1",
                 "repo": "readme-typing-svg",
-                "stars": 9277,
+                "stars": 9285,
                 "topics": [
                   "animation",
                   "dynamic",
@@ -2326,7 +2252,7 @@
                 "open_issues": 79,
                 "owner": "r-spacex",
                 "repo": "SpaceX-API",
-                "stars": 10913,
+                "stars": 10912,
                 "topics": [
                   "api",
                   "capsule",
@@ -2430,7 +2356,7 @@
                 "open_issues": 15,
                 "owner": "fingerprintjs",
                 "repo": "BotD",
-                "stars": 1459,
+                "stars": 1461,
                 "topics": [
                   "automation",
                   "bot-detection",
@@ -2536,7 +2462,7 @@
                 "language": "Python",
                 "license": "MPL-2.0",
                 "last_commit": "2024-10-22T09:18:12Z",
-                "open_issues": 89,
+                "open_issues": 88,
                 "owner": "mozilla",
                 "repo": "http-observatory",
                 "stars": 1850,
@@ -2630,7 +2556,7 @@
                 "open_issues": 5,
                 "owner": "HackerNews",
                 "repo": "API",
-                "stars": 13293,
+                "stars": 13296,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -2648,7 +2574,7 @@
                 "language": "Elixir",
                 "license": "MIT",
                 "last_commit": "2026-08-15T22:52:23Z",
-                "open_issues": 11,
+                "open_issues": 12,
                 "owner": "Phineas",
                 "repo": "lanyard",
                 "stars": 1462,
@@ -2680,7 +2606,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-08-22T09:21:33Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "flavnat",
                 "repo": "footy-api",
                 "stars": 11,
@@ -3158,7 +3084,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T22:36:42.290Z",
+    "last_updated": "2026-09-02T22:39:12.301Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of public APIs for developers",
@@ -3166,11 +3092,11 @@
       "id": 490985210,
       "language": "JavaScript",
       "license": "MIT",
-      "last_commit": "2026-09-01T22:12:12Z",
-      "open_issues": 52,
+      "last_commit": "2026-09-02T19:07:16Z",
+      "open_issues": 1,
       "owner": "marcelscruz",
       "repo": "public-apis",
-      "stars": 9409,
+      "stars": 9416,
       "topics": [
         "apis",
         "awesome",
@@ -3183,7 +3109,7 @@
         "resources"
       ]
     },
-    "original_repository_sha": "fdaec69fcf5c62204eb46663f3683a40b31090bc",
+    "original_repository_sha": "c6998f6dc61106980a214c24743cbea5b4b24b30",
     "enhanced_repository": "enhansome/enhansome-public-apis",
     "enhanced_repository_description": null,
     "title": "Awesome public apis with stars"

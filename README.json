@@ -21,7 +21,7 @@
                 "open_issues": 476,
                 "owner": "justadudewhohacks",
                 "repo": "face-api.js",
-                "stars": 17945,
+                "stars": 17944,
                 "topics": [
                   "age-estimation",
                   "emotion-recognition",
@@ -336,7 +336,7 @@
                 "open_issues": 2,
                 "owner": "thundercomb",
                 "repo": "poetrydb",
-                "stars": 650,
+                "stars": 651,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -482,11 +482,11 @@
                 "id": 316913418,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-09-02T06:20:05Z",
+                "last_commit": "2026-09-03T03:29:18Z",
                 "open_issues": 0,
                 "owner": "binance",
                 "repo": "binance-spot-api-docs",
-                "stars": 4862,
+                "stars": 4861,
                 "topics": [
                   "binance-api",
                   "documentation",
@@ -905,7 +905,7 @@
                 "open_issues": 2,
                 "owner": "sameerkumar18",
                 "repo": "corporate-bs-generator-api",
-                "stars": 355,
+                "stars": 356,
                 "topics": [
                   "api",
                   "bullshit",
@@ -1266,7 +1266,7 @@
                 "id": 218856223,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-02T20:00:19Z",
+                "last_commit": "2026-09-03T20:04:07Z",
                 "open_issues": 34,
                 "owner": "favware",
                 "repo": "graphql-pokemon",
@@ -1404,7 +1404,7 @@
                 "open_issues": 2,
                 "owner": "Revadike",
                 "repo": "InternalSteamWebAPI",
-                "stars": 643,
+                "stars": 645,
                 "topics": [
                   "api",
                   "api-docs",
@@ -1789,7 +1789,7 @@
                 "open_issues": 11,
                 "owner": "cyberboysumanjay",
                 "repo": "JioSaavnAPI",
-                "stars": 454,
+                "stars": 455,
                 "topics": [
                   "api",
                   "downloadermp3",
@@ -2016,7 +2016,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-24T19:10:52Z",
-                "open_issues": 47,
+                "open_issues": 46,
                 "owner": "Hipo",
                 "repo": "university-domains-list",
                 "stars": 1651,
@@ -2047,7 +2047,7 @@
                 "open_issues": 293,
                 "owner": "anuraghazra",
                 "repo": "github-readme-stats",
-                "stars": 79834,
+                "stars": 79838,
                 "topics": [
                   "dynamic",
                   "profile-readme",
@@ -2081,7 +2081,7 @@
                 "open_issues": 10,
                 "owner": "Medium",
                 "repo": "medium-api-docs",
-                "stars": 2333,
+                "stars": 2334,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -2172,7 +2172,7 @@
                 "open_issues": 70,
                 "owner": "DenverCoder1",
                 "repo": "readme-typing-svg",
-                "stars": 9285,
+                "stars": 9289,
                 "topics": [
                   "animation",
                   "dynamic",
@@ -2352,11 +2352,11 @@
                 "id": 346424381,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-11T06:30:36Z",
+                "last_commit": "2026-09-02T23:16:40Z",
                 "open_issues": 15,
                 "owner": "fingerprintjs",
                 "repo": "BotD",
-                "stars": 1461,
+                "stars": 1462,
                 "topics": [
                   "automation",
                   "bot-detection",
@@ -2556,7 +2556,7 @@
                 "open_issues": 5,
                 "owner": "HackerNews",
                 "repo": "API",
-                "stars": 13296,
+                "stars": 13305,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -2807,8 +2807,8 @@
                 "id": 82846343,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-08-15T13:02:27Z",
-                "open_issues": 7,
+                "last_commit": "2026-09-03T10:48:16Z",
+                "open_issues": 8,
                 "owner": "shevabam",
                 "repo": "breaking-bad-quotes",
                 "stars": 459,
@@ -3084,7 +3084,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T22:39:12.301Z",
+    "last_updated": "2026-09-03T22:34:40.997Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of public APIs for developers",
@@ -3092,11 +3092,11 @@
       "id": 490985210,
       "language": "JavaScript",
       "license": "MIT",
-      "last_commit": "2026-09-02T19:07:16Z",
-      "open_issues": 1,
+      "last_commit": "2026-09-03T20:06:45Z",
+      "open_issues": 2,
       "owner": "marcelscruz",
       "repo": "public-apis",
-      "stars": 9416,
+      "stars": 9418,
       "topics": [
         "apis",
         "awesome",
@@ -3109,7 +3109,7 @@
         "resources"
       ]
     },
-    "original_repository_sha": "c6998f6dc61106980a214c24743cbea5b4b24b30",
+    "original_repository_sha": "1c149bac15020e39faea85801f116080e7365976",
     "enhanced_repository": "enhansome/enhansome-public-apis",
     "enhanced_repository_description": null,
     "title": "Awesome public apis with stars"

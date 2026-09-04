@@ -21,7 +21,7 @@
                 "open_issues": 476,
                 "owner": "justadudewhohacks",
                 "repo": "face-api.js",
-                "stars": 17944,
+                "stars": 17946,
                 "topics": [
                   "age-estimation",
                   "emotion-recognition",
@@ -482,7 +482,7 @@
                 "id": 316913418,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-09-03T03:29:18Z",
+                "last_commit": "2026-09-04T00:46:22Z",
                 "open_issues": 0,
                 "owner": "binance",
                 "repo": "binance-spot-api-docs",
@@ -867,11 +867,11 @@
                 "id": 446215325,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-08-29T11:08:28Z",
+                "last_commit": "2026-09-04T09:42:37Z",
                 "open_issues": 6,
                 "owner": "macsplit",
                 "repo": "urltomarkdown",
-                "stars": 356,
+                "stars": 355,
                 "topics": [
                   "heroku",
                   "markdown-converter",
@@ -1001,7 +1001,7 @@
                 "open_issues": 0,
                 "owner": "Real-time-finance",
                 "repo": "finance-websocket-API",
-                "stars": 116,
+                "stars": 117,
                 "topics": [
                   "api",
                   "finance",
@@ -1266,7 +1266,7 @@
                 "id": 218856223,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-03T20:04:07Z",
+                "last_commit": "2026-09-04T18:12:14Z",
                 "open_issues": 34,
                 "owner": "favware",
                 "repo": "graphql-pokemon",
@@ -1404,7 +1404,7 @@
                 "open_issues": 2,
                 "owner": "Revadike",
                 "repo": "InternalSteamWebAPI",
-                "stars": 645,
+                "stars": 646,
                 "topics": [
                   "api",
                   "api-docs",
@@ -1789,7 +1789,7 @@
                 "open_issues": 11,
                 "owner": "cyberboysumanjay",
                 "repo": "JioSaavnAPI",
-                "stars": 455,
+                "stars": 456,
                 "topics": [
                   "api",
                   "downloadermp3",
@@ -2019,7 +2019,7 @@
                 "open_issues": 46,
                 "owner": "Hipo",
                 "repo": "university-domains-list",
-                "stars": 1651,
+                "stars": 1652,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -2047,7 +2047,7 @@
                 "open_issues": 293,
                 "owner": "anuraghazra",
                 "repo": "github-readme-stats",
-                "stars": 79838,
+                "stars": 79846,
                 "topics": [
                   "dynamic",
                   "profile-readme",
@@ -2172,7 +2172,7 @@
                 "open_issues": 70,
                 "owner": "DenverCoder1",
                 "repo": "readme-typing-svg",
-                "stars": 9289,
+                "stars": 9292,
                 "topics": [
                   "animation",
                   "dynamic",
@@ -2556,7 +2556,7 @@
                 "open_issues": 5,
                 "owner": "HackerNews",
                 "repo": "API",
-                "stars": 13305,
+                "stars": 13308,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -2577,7 +2577,7 @@
                 "open_issues": 12,
                 "owner": "Phineas",
                 "repo": "lanyard",
-                "stars": 1462,
+                "stars": 1463,
                 "topics": [
                   "discord",
                   "discord-rpc",
@@ -2630,7 +2630,7 @@
                 "open_issues": 4,
                 "owner": "azharimm",
                 "repo": "football-standings-api",
-                "stars": 119,
+                "stars": 120,
                 "topics": [
                   "api",
                   "express",
@@ -2719,7 +2719,7 @@
                 "open_issues": 6,
                 "owner": "koch-t",
                 "repo": "KV78Turbo-OVAPI",
-                "stars": 100,
+                "stars": 101,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -3084,7 +3084,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T22:34:40.997Z",
+    "last_updated": "2026-09-04T22:21:06.059Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of public APIs for developers",
@@ -3092,11 +3092,11 @@
       "id": 490985210,
       "language": "JavaScript",
       "license": "MIT",
-      "last_commit": "2026-09-03T20:06:45Z",
-      "open_issues": 2,
+      "last_commit": "2026-09-04T14:06:53Z",
+      "open_issues": 7,
       "owner": "marcelscruz",
       "repo": "public-apis",
-      "stars": 9418,
+      "stars": 9422,
       "topics": [
         "apis",
         "awesome",
@@ -3109,7 +3109,7 @@
         "resources"
       ]
     },
-    "original_repository_sha": "1c149bac15020e39faea85801f116080e7365976",
+    "original_repository_sha": "b252c6e293537bedeff17cf6fd8ae94b51f33130",
     "enhanced_repository": "enhansome/enhansome-public-apis",
     "enhanced_repository_description": null,
     "title": "Awesome public apis with stars"

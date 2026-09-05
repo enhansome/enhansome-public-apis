@@ -21,7 +21,7 @@
                 "open_issues": 476,
                 "owner": "justadudewhohacks",
                 "repo": "face-api.js",
-                "stars": 17946,
+                "stars": 17947,
                 "topics": [
                   "age-estimation",
                   "emotion-recognition",
@@ -118,7 +118,7 @@
                 "open_issues": 68,
                 "owner": "AniList",
                 "repo": "docs",
-                "stars": 1323,
+                "stars": 1322,
                 "topics": [
                   "anichart",
                   "anilist",
@@ -333,10 +333,10 @@
                 "language": "Ruby",
                 "license": "GPL-2.0",
                 "last_commit": "2026-08-31T21:02:40Z",
-                "open_issues": 2,
+                "open_issues": 6,
                 "owner": "thundercomb",
                 "repo": "poetrydb",
-                "stars": 651,
+                "stars": 652,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -486,7 +486,7 @@
                 "open_issues": 0,
                 "owner": "binance",
                 "repo": "binance-spot-api-docs",
-                "stars": 4861,
+                "stars": 4866,
                 "topics": [
                   "binance-api",
                   "documentation",
@@ -1123,7 +1123,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-08-23T17:19:47Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "andyklimczak",
                 "repo": "TheReportOfTheWeek-API",
                 "stars": 60,
@@ -1266,7 +1266,7 @@
                 "id": 218856223,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-04T18:12:14Z",
+                "last_commit": "2026-09-05T10:33:16Z",
                 "open_issues": 34,
                 "owner": "favware",
                 "repo": "graphql-pokemon",
@@ -2019,7 +2019,7 @@
                 "open_issues": 46,
                 "owner": "Hipo",
                 "repo": "university-domains-list",
-                "stars": 1652,
+                "stars": 1654,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -2044,10 +2044,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-08-31T00:55:37Z",
-                "open_issues": 293,
+                "open_issues": 292,
                 "owner": "anuraghazra",
                 "repo": "github-readme-stats",
-                "stars": 79846,
+                "stars": 79844,
                 "topics": [
                   "dynamic",
                   "profile-readme",
@@ -2172,7 +2172,7 @@
                 "open_issues": 70,
                 "owner": "DenverCoder1",
                 "repo": "readme-typing-svg",
-                "stars": 9292,
+                "stars": 9293,
                 "topics": [
                   "animation",
                   "dynamic",
@@ -2289,7 +2289,7 @@
                 "open_issues": 1,
                 "owner": "FranP-code",
                 "repo": "API-Times-Adder",
-                "stars": 2,
+                "stars": 1,
                 "topics": [
                   "api",
                   "api-rest",
@@ -2352,8 +2352,8 @@
                 "id": 346424381,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-02T23:16:40Z",
-                "open_issues": 15,
+                "last_commit": "2026-09-05T08:07:54Z",
+                "open_issues": 16,
                 "owner": "fingerprintjs",
                 "repo": "BotD",
                 "stars": 1462,
@@ -2556,7 +2556,7 @@
                 "open_issues": 5,
                 "owner": "HackerNews",
                 "repo": "API",
-                "stars": 13308,
+                "stars": 13311,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -3065,7 +3065,7 @@
                 "open_issues": 2,
                 "owner": "robertoduessmann",
                 "repo": "weather-api",
-                "stars": 482,
+                "stars": 481,
                 "topics": [
                   "golang",
                   "weather",
@@ -3084,7 +3084,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T22:21:06.059Z",
+    "last_updated": "2026-09-05T22:03:28.218Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of public APIs for developers",
@@ -3093,7 +3093,7 @@
       "language": "JavaScript",
       "license": "MIT",
       "last_commit": "2026-09-04T14:06:53Z",
-      "open_issues": 7,
+      "open_issues": 8,
       "owner": "marcelscruz",
       "repo": "public-apis",
       "stars": 9422,

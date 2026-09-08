@@ -21,7 +21,7 @@
                 "open_issues": 476,
                 "owner": "justadudewhohacks",
                 "repo": "face-api.js",
-                "stars": 17949,
+                "stars": 17950,
                 "topics": [
                   "age-estimation",
                   "emotion-recognition",
@@ -118,7 +118,7 @@
                 "open_issues": 68,
                 "owner": "AniList",
                 "repo": "docs",
-                "stars": 1323,
+                "stars": 1324,
                 "topics": [
                   "anichart",
                   "anilist",
@@ -357,7 +357,7 @@
                 "open_issues": 27,
                 "owner": "fawazahmed0",
                 "repo": "quran-api",
-                "stars": 1176,
+                "stars": 1177,
                 "topics": [
                   "al-quran",
                   "api",
@@ -1266,7 +1266,7 @@
                 "id": 218856223,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-07T18:01:47Z",
+                "last_commit": "2026-09-08T07:45:43Z",
                 "open_issues": 34,
                 "owner": "favware",
                 "repo": "graphql-pokemon",
@@ -1404,7 +1404,7 @@
                 "open_issues": 2,
                 "owner": "Revadike",
                 "repo": "InternalSteamWebAPI",
-                "stars": 646,
+                "stars": 647,
                 "topics": [
                   "api",
                   "api-docs",
@@ -1968,7 +1968,7 @@
                 "id": 308393711,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-08-24T13:24:30Z",
+                "last_commit": "2026-09-08T16:02:43Z",
                 "open_issues": 1,
                 "owner": "datastreamapp",
                 "repo": "api-docs",
@@ -2047,7 +2047,7 @@
                 "open_issues": 292,
                 "owner": "anuraghazra",
                 "repo": "github-readme-stats",
-                "stars": 79849,
+                "stars": 79845,
                 "topics": [
                   "dynamic",
                   "profile-readme",
@@ -2169,10 +2169,10 @@
                 "language": "PHP",
                 "license": "MIT",
                 "last_commit": "2026-08-31T07:57:50Z",
-                "open_issues": 70,
+                "open_issues": 69,
                 "owner": "DenverCoder1",
                 "repo": "readme-typing-svg",
-                "stars": 9304,
+                "stars": 9308,
                 "topics": [
                   "animation",
                   "dynamic",
@@ -2252,7 +2252,7 @@
                 "open_issues": 79,
                 "owner": "r-spacex",
                 "repo": "SpaceX-API",
-                "stars": 10911,
+                "stars": 10910,
                 "topics": [
                   "api",
                   "capsule",
@@ -2535,7 +2535,7 @@
                 "open_issues": 24,
                 "owner": "4chan",
                 "repo": "4chan-API",
-                "stars": 1107,
+                "stars": 1106,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -2574,10 +2574,10 @@
                 "language": "Elixir",
                 "license": "MIT",
                 "last_commit": "2026-08-15T22:52:23Z",
-                "open_issues": 12,
+                "open_issues": 11,
                 "owner": "Phineas",
                 "repo": "lanyard",
-                "stars": 1464,
+                "stars": 1466,
                 "topics": [
                   "discord",
                   "discord-rpc",
@@ -3084,7 +3084,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T22:50:18.565Z",
+    "last_updated": "2026-09-08T22:40:11.762Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of public APIs for developers",
@@ -3092,11 +3092,11 @@
       "id": 490985210,
       "language": "JavaScript",
       "license": "MIT",
-      "last_commit": "2026-09-07T08:09:55Z",
+      "last_commit": "2026-09-08T11:07:21Z",
       "open_issues": 11,
       "owner": "marcelscruz",
       "repo": "public-apis",
-      "stars": 9428,
+      "stars": 9434,
       "topics": [
         "apis",
         "awesome",
@@ -3109,7 +3109,7 @@
         "resources"
       ]
     },
-    "original_repository_sha": "ffd44086660515e9f3307b24068500713ea823b2",
+    "original_repository_sha": "728291df21cd5cea88524b1439e6369f970bad3f",
     "enhanced_repository": "enhansome/enhansome-public-apis",
     "enhanced_repository_description": null,
     "title": "Awesome public apis with stars"

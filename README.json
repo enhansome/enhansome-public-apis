@@ -118,7 +118,7 @@
                 "open_issues": 68,
                 "owner": "AniList",
                 "repo": "docs",
-                "stars": 1328,
+                "stars": 1329,
                 "topics": [
                   "anichart",
                   "anilist",
@@ -333,7 +333,7 @@
                 "language": "Ruby",
                 "license": "GPL-2.0",
                 "last_commit": "2026-09-09T16:56:06Z",
-                "open_issues": 6,
+                "open_issues": 5,
                 "owner": "thundercomb",
                 "repo": "poetrydb",
                 "stars": 653,
@@ -357,7 +357,7 @@
                 "open_issues": 27,
                 "owner": "fawazahmed0",
                 "repo": "quran-api",
-                "stars": 1182,
+                "stars": 1181,
                 "topics": [
                   "al-quran",
                   "api",
@@ -544,7 +544,7 @@
                 "open_issues": 17,
                 "owner": "btcid",
                 "repo": "indodax-official-api-docs",
-                "stars": 172,
+                "stars": 173,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -807,7 +807,7 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2023-05-05T02:32:23Z",
-                "open_issues": 28,
+                "open_issues": 29,
                 "owner": "Cgboal",
                 "repo": "SonarSearch",
                 "stars": 653,
@@ -867,7 +867,7 @@
                 "id": 446215325,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-09-04T09:42:37Z",
+                "last_commit": "2026-09-13T12:43:47Z",
                 "open_issues": 6,
                 "owner": "macsplit",
                 "repo": "urltomarkdown",
@@ -1270,7 +1270,7 @@
                 "open_issues": 35,
                 "owner": "favware",
                 "repo": "graphql-pokemon",
-                "stars": 198,
+                "stars": 199,
                 "topics": [
                   "favware",
                   "graphql",
@@ -1325,7 +1325,7 @@
                 "id": 239970041,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-07T06:50:47Z",
+                "last_commit": "2026-09-13T09:55:28Z",
                 "open_issues": 2,
                 "owner": "mazipan",
                 "repo": "graphql-pokeapi",
@@ -1756,7 +1756,7 @@
                 "open_issues": 4,
                 "owner": "cyberboysumanjay",
                 "repo": "GaanaAPI",
-                "stars": 151,
+                "stars": 152,
                 "topics": [
                   "api",
                   "flask",
@@ -2019,7 +2019,7 @@
                 "open_issues": 46,
                 "owner": "Hipo",
                 "repo": "university-domains-list",
-                "stars": 1660,
+                "stars": 1661,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -2047,7 +2047,7 @@
                 "open_issues": 292,
                 "owner": "anuraghazra",
                 "repo": "github-readme-stats",
-                "stars": 79838,
+                "stars": 79836,
                 "topics": [
                   "dynamic",
                   "profile-readme",
@@ -2172,7 +2172,7 @@
                 "open_issues": 69,
                 "owner": "DenverCoder1",
                 "repo": "readme-typing-svg",
-                "stars": 9318,
+                "stars": 9322,
                 "topics": [
                   "animation",
                   "dynamic",
@@ -2252,7 +2252,7 @@
                 "open_issues": 79,
                 "owner": "r-spacex",
                 "repo": "SpaceX-API",
-                "stars": 10910,
+                "stars": 10911,
                 "topics": [
                   "api",
                   "capsule",
@@ -2352,11 +2352,11 @@
                 "id": 346424381,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-10T07:53:51Z",
+                "last_commit": "2026-09-13T10:48:05Z",
                 "open_issues": 18,
                 "owner": "fingerprintjs",
                 "repo": "BotD",
-                "stars": 1468,
+                "stars": 1469,
                 "topics": [
                   "automation",
                   "bot-detection",
@@ -2444,7 +2444,7 @@
                 "open_issues": 37,
                 "owner": "IntelligenceX",
                 "repo": "SDK",
-                "stars": 551,
+                "stars": 552,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -2577,7 +2577,7 @@
                 "open_issues": 11,
                 "owner": "Phineas",
                 "repo": "lanyard",
-                "stars": 1466,
+                "stars": 1468,
                 "topics": [
                   "discord",
                   "discord-rpc",
@@ -2811,7 +2811,7 @@
                 "open_issues": 8,
                 "owner": "shevabam",
                 "repo": "breaking-bad-quotes",
-                "stars": 460,
+                "stars": 461,
                 "topics": [
                   "api",
                   "breaking-bad",
@@ -3084,7 +3084,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T22:17:49.498Z",
+    "last_updated": "2026-09-13T22:24:16.558Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of public APIs for developers",
@@ -3093,10 +3093,10 @@
       "language": "JavaScript",
       "license": "MIT",
       "last_commit": "2026-09-12T18:07:58Z",
-      "open_issues": 18,
+      "open_issues": 19,
       "owner": "marcelscruz",
       "repo": "public-apis",
-      "stars": 9450,
+      "stars": 9451,
       "topics": [
         "apis",
         "awesome",

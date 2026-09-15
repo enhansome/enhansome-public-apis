@@ -333,7 +333,7 @@
                 "language": "Ruby",
                 "license": "GPL-2.0",
                 "last_commit": "2026-09-09T16:56:06Z",
-                "open_issues": 5,
+                "open_issues": 4,
                 "owner": "thundercomb",
                 "repo": "poetrydb",
                 "stars": 653,
@@ -1266,7 +1266,7 @@
                 "id": 218856223,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-11T01:16:20Z",
+                "last_commit": "2026-09-15T19:20:00Z",
                 "open_issues": 35,
                 "owner": "favware",
                 "repo": "graphql-pokemon",
@@ -1404,7 +1404,7 @@
                 "open_issues": 2,
                 "owner": "Revadike",
                 "repo": "InternalSteamWebAPI",
-                "stars": 647,
+                "stars": 648,
                 "topics": [
                   "api",
                   "api-docs",
@@ -1919,8 +1919,8 @@
                 "id": 637539088,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-05-29T13:59:07Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-15T16:02:39Z",
+                "open_issues": 1,
                 "owner": "NHagar",
                 "repo": "substack_api",
                 "stars": 223,
@@ -2019,7 +2019,7 @@
                 "open_issues": 46,
                 "owner": "Hipo",
                 "repo": "university-domains-list",
-                "stars": 1661,
+                "stars": 1662,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -2047,7 +2047,7 @@
                 "open_issues": 292,
                 "owner": "anuraghazra",
                 "repo": "github-readme-stats",
-                "stars": 79839,
+                "stars": 79834,
                 "topics": [
                   "dynamic",
                   "profile-readme",
@@ -2172,7 +2172,7 @@
                 "open_issues": 69,
                 "owner": "DenverCoder1",
                 "repo": "readme-typing-svg",
-                "stars": 9331,
+                "stars": 9334,
                 "topics": [
                   "animation",
                   "dynamic",
@@ -2252,7 +2252,7 @@
                 "open_issues": 79,
                 "owner": "r-spacex",
                 "repo": "SpaceX-API",
-                "stars": 10911,
+                "stars": 10912,
                 "topics": [
                   "api",
                   "capsule",
@@ -2427,93 +2427,9 @@
                 ]
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Intelligence X",
-              "description": "Perform OSINT via Intelligence X  Unknown",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Public SDK for Intelligence X",
-                "homepage": "https://intelx.io",
-                "id": 161177733,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-05-31T02:51:26Z",
-                "open_issues": 37,
-                "owner": "IntelligenceX",
-                "repo": "SDK",
-                "stars": 552,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T04:22:23.931Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Mozilla http scanner",
-              "description": "Mozilla observatory http scanner No Unknown",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Mozilla HTTP Observatory",
-                "homepage": "https://observatory.mozilla.org/",
-                "id": 51037508,
-                "language": "Python",
-                "license": "MPL-2.0",
-                "last_commit": "2024-10-22T09:18:12Z",
-                "open_issues": 88,
-                "owner": "mozilla",
-                "repo": "http-observatory",
-                "stars": 1850,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T04:22:23.931Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Mozilla tls scanner",
-              "description": "Mozilla observatory tls scanner No Unknown",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "An observatory for TLS configurations, X509 certificates, and more.",
-                "homepage": null,
-                "id": 23923847,
-                "language": "Go",
-                "license": "MPL-2.0",
-                "last_commit": "2025-09-23T14:33:32Z",
-                "open_issues": 67,
-                "owner": "mozilla",
-                "repo": "tls-observatory",
-                "stars": 545,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T04:22:23.931Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Passwordinator",
-              "description": "Generate random passwords of varying complexities No Yes",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A simple public API that generates random password",
-                "homepage": null,
-                "id": 374983088,
-                "language": "JavaScript",
-                "license": null,
-                "last_commit": "2023-05-22T05:51:39Z",
-                "open_issues": 2,
-                "owner": "fawazsullia",
-                "repo": "password-generator",
-                "stars": 38,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T04:22:23.931Z"
             }
           ],
-          "description": "⬆ Back to Index",
+          "description": "| Intelligence X | Perform OSINT via Intelligence X | | Unknown | | IPASIS | Bot detection and fraud prevention API with IP reputation and email validation | | Yes | | LeakInsight | Find leaked or exposed credentials by email, username, phone, domain, hash, or breach origin | | Unknown | | LoginRadius | Managed User Authentication Service | | Yes | | Microsoft Security Response Center (MSRC) | Programmatic interfaces to engage with the Microsoft Security Response Center (MSRC) | No | Unknown | | Mozilla http scanner | Mozilla observatory http scanner | No | Unknown | | Mozilla tls scanner | Mozilla observatory tls scanner | No | Unknown | | National Vulnerability Database | U.S. National Vulnerability Database | No | Unknown | | Offendersearch | Search sex-offender records across all 58 US state, territory and tribal registries in one query; REST API plus open data | | Yes | | OWASP ZAP | Automated security testing API for web apps | No | Unknown | | Passwordinator | Generate random passwords of varying complexities | No | Yes | | PhishStats | Phishing database | No | Unknown | | Portscan | Scans the requesting client's IP for open TCP ports with fast or deep modes on IPv4/IPv6 | No | Yes | | Privacy.com | Generate merchant-specific and one-time use credit card numbers that link back to your bank | | Unknown | | Pulsedive | Scan, search and collect threat intelligence data in real-time | | Unknown | | SecurityTrails | Domain and IP related information such as current and historical WHOIS and DNS records | | Unknown | | Shodan | Search engine for Internet connected devices | | Unknown | | Spyse | Access data on all Internet assets and build powerful attack surface management applications | | Unknown | | UK Police | UK Police data | No | Unknown | | Virus and Malware Scan API by attachmentAV | Scan files for viruses, worms, trojans, ransomware, and other kinds of malware by sending them to the attachmentAV API powered by Sophos | | No | | VulDB | VulDB API allows to initiate queries for one or more items along with transactional bots | | Unknown | | Whoisfreaks | Domain and DNS related information that will equip organizaion with comprehensive threat intelligence and attack surface analysis capabilities for enhanced security | | No |\n⬆ Back to Index",
           "node_type": "group",
           "title": "Security"
         },
@@ -2535,7 +2451,7 @@
                 "open_issues": 24,
                 "owner": "4chan",
                 "repo": "4chan-API",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -2577,7 +2493,7 @@
                 "open_issues": 11,
                 "owner": "Phineas",
                 "repo": "lanyard",
-                "stars": 1468,
+                "stars": 1469,
                 "topics": [
                   "discord",
                   "discord-rpc",
@@ -2811,7 +2727,7 @@
                 "open_issues": 8,
                 "owner": "shevabam",
                 "repo": "breaking-bad-quotes",
-                "stars": 461,
+                "stars": 462,
                 "topics": [
                   "api",
                   "breaking-bad",
@@ -2951,7 +2867,7 @@
                 "open_issues": 0,
                 "owner": "F4R4N",
                 "repo": "movie-quote",
-                "stars": 41,
+                "stars": 42,
                 "topics": [
                   "api",
                   "django",
@@ -3084,7 +3000,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T23:07:40.380Z",
+    "last_updated": "2026-09-15T22:53:51.287Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of public APIs for developers",
@@ -3092,11 +3008,11 @@
       "id": 490985210,
       "language": "JavaScript",
       "license": "MIT",
-      "last_commit": "2026-09-14T18:50:40Z",
-      "open_issues": 19,
+      "last_commit": "2026-09-15T19:06:52Z",
+      "open_issues": 24,
       "owner": "marcelscruz",
       "repo": "public-apis",
-      "stars": 9457,
+      "stars": 9462,
       "topics": [
         "apis",
         "awesome",
@@ -3109,7 +3025,7 @@
         "resources"
       ]
     },
-    "original_repository_sha": "5ec036b79bd853132bb9d56c147441b090485832",
+    "original_repository_sha": "0333fa16d49426bd67764f233deffb778a0aa178",
     "enhanced_repository": "enhansome/enhansome-public-apis",
     "enhanced_repository_description": null,
     "title": "Awesome public apis with stars"

@@ -21,7 +21,7 @@
                 "open_issues": 476,
                 "owner": "justadudewhohacks",
                 "repo": "face-api.js",
-                "stars": 17953,
+                "stars": 17956,
                 "topics": [
                   "age-estimation",
                   "emotion-recognition",
@@ -252,7 +252,7 @@
                 "open_issues": 126,
                 "owner": "CrossRef",
                 "repo": "rest-api-doc",
-                "stars": 800,
+                "stars": 801,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -357,7 +357,7 @@
                 "open_issues": 27,
                 "owner": "fawazahmed0",
                 "repo": "quran-api",
-                "stars": 1181,
+                "stars": 1182,
                 "topics": [
                   "al-quran",
                   "api",
@@ -843,7 +843,7 @@
                 "open_issues": 48,
                 "owner": "melpon",
                 "repo": "wandbox",
-                "stars": 1266,
+                "stars": 1265,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -905,7 +905,7 @@
                 "open_issues": 2,
                 "owner": "sameerkumar18",
                 "repo": "corporate-bs-generator-api",
-                "stars": 358,
+                "stars": 357,
                 "topics": [
                   "api",
                   "bullshit",
@@ -1122,11 +1122,11 @@
                 "id": 55330319,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-14T21:14:40Z",
+                "last_commit": "2026-09-16T21:13:14Z",
                 "open_issues": 5,
                 "owner": "andyklimczak",
                 "repo": "TheReportOfTheWeek-API",
-                "stars": 63,
+                "stars": 64,
                 "topics": [
                   "api",
                   "drink",
@@ -1266,7 +1266,7 @@
                 "id": 218856223,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-15T19:20:00Z",
+                "last_commit": "2026-09-16T12:55:58Z",
                 "open_issues": 35,
                 "owner": "favware",
                 "repo": "graphql-pokemon",
@@ -1437,8 +1437,8 @@
                 "id": 259080904,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-06T05:22:32Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-16T00:25:41Z",
+                "open_issues": 1,
                 "owner": "DiljotSG",
                 "repo": "MCU-Countdown",
                 "stars": 233,
@@ -1920,10 +1920,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-15T16:02:39Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "NHagar",
                 "repo": "substack_api",
-                "stars": 223,
+                "stars": 225,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -2047,7 +2047,7 @@
                 "open_issues": 292,
                 "owner": "anuraghazra",
                 "repo": "github-readme-stats",
-                "stars": 79834,
+                "stars": 79833,
                 "topics": [
                   "dynamic",
                   "profile-readme",
@@ -2252,7 +2252,7 @@
                 "open_issues": 79,
                 "owner": "r-spacex",
                 "repo": "SpaceX-API",
-                "stars": 10912,
+                "stars": 10911,
                 "topics": [
                   "api",
                   "capsule",
@@ -2472,7 +2472,7 @@
                 "open_issues": 5,
                 "owner": "HackerNews",
                 "repo": "API",
-                "stars": 13326,
+                "stars": 13327,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -2493,7 +2493,7 @@
                 "open_issues": 11,
                 "owner": "Phineas",
                 "repo": "lanyard",
-                "stars": 1469,
+                "stars": 1470,
                 "topics": [
                   "discord",
                   "discord-rpc",
@@ -2727,7 +2727,7 @@
                 "open_issues": 8,
                 "owner": "shevabam",
                 "repo": "breaking-bad-quotes",
-                "stars": 462,
+                "stars": 463,
                 "topics": [
                   "api",
                   "breaking-bad",
@@ -2834,8 +2834,8 @@
                 "id": 259080904,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-06T05:22:32Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-16T00:25:41Z",
+                "open_issues": 1,
                 "owner": "DiljotSG",
                 "repo": "MCU-Countdown",
                 "stars": 233,
@@ -3000,7 +3000,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T22:53:51.287Z",
+    "last_updated": "2026-09-16T22:56:11.654Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of public APIs for developers",
@@ -3008,11 +3008,11 @@
       "id": 490985210,
       "language": "JavaScript",
       "license": "MIT",
-      "last_commit": "2026-09-15T19:06:52Z",
+      "last_commit": "2026-09-16T22:07:11Z",
       "open_issues": 24,
       "owner": "marcelscruz",
       "repo": "public-apis",
-      "stars": 9462,
+      "stars": 9466,
       "topics": [
         "apis",
         "awesome",
@@ -3025,7 +3025,7 @@
         "resources"
       ]
     },
-    "original_repository_sha": "0333fa16d49426bd67764f233deffb778a0aa178",
+    "original_repository_sha": "030c91842d6f714bb43d0aac73c1a319bce201a0",
     "enhanced_repository": "enhansome/enhansome-public-apis",
     "enhanced_repository_description": null,
     "title": "Awesome public apis with stars"

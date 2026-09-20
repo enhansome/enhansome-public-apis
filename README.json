@@ -357,7 +357,7 @@
                 "open_issues": 27,
                 "owner": "fawazahmed0",
                 "repo": "quran-api",
-                "stars": 1187,
+                "stars": 1188,
                 "topics": [
                   "al-quran",
                   "api",
@@ -486,7 +486,7 @@
                 "open_issues": 0,
                 "owner": "binance",
                 "repo": "binance-spot-api-docs",
-                "stars": 4877,
+                "stars": 4880,
                 "topics": [
                   "binance-api",
                   "documentation",
@@ -706,7 +706,7 @@
                 "open_issues": 7,
                 "owner": "npm",
                 "repo": "registry",
-                "stars": 496,
+                "stars": 497,
                 "topics": [
                   "docs",
                   "documentation",
@@ -839,7 +839,7 @@
                 "id": 3457601,
                 "language": "TypeScript",
                 "license": "BSL-1.0",
-                "last_commit": "2026-05-20T00:53:21Z",
+                "last_commit": "2026-09-20T08:48:46Z",
                 "open_issues": 48,
                 "owner": "melpon",
                 "repo": "wandbox",
@@ -871,7 +871,7 @@
                 "open_issues": 6,
                 "owner": "macsplit",
                 "repo": "urltomarkdown",
-                "stars": 357,
+                "stars": 358,
                 "topics": [
                   "heroku",
                   "markdown-converter",
@@ -905,7 +905,7 @@
                 "open_issues": 2,
                 "owner": "sameerkumar18",
                 "repo": "corporate-bs-generator-api",
-                "stars": 357,
+                "stars": 358,
                 "topics": [
                   "api",
                   "bullshit",
@@ -1105,7 +1105,7 @@
                 "open_issues": 6,
                 "owner": "evz",
                 "repo": "tacofancy-api",
-                "stars": 131,
+                "stars": 132,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -1126,7 +1126,7 @@
                 "open_issues": 3,
                 "owner": "andyklimczak",
                 "repo": "TheReportOfTheWeek-API",
-                "stars": 64,
+                "stars": 65,
                 "topics": [
                   "api",
                   "drink",
@@ -1266,7 +1266,7 @@
                 "id": 218856223,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-19T18:59:47Z",
+                "last_commit": "2026-09-20T10:30:07Z",
                 "open_issues": 35,
                 "owner": "favware",
                 "repo": "graphql-pokemon",
@@ -1437,8 +1437,8 @@
                 "id": 259080904,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-16T00:25:41Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-20T05:22:27Z",
+                "open_issues": 2,
                 "owner": "DiljotSG",
                 "repo": "MCU-Countdown",
                 "stars": 234,
@@ -1944,7 +1944,7 @@
                 "open_issues": 11,
                 "owner": "theoldreader",
                 "repo": "api",
-                "stars": 203,
+                "stars": 204,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -2015,8 +2015,8 @@
                 "id": 25596429,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-24T19:10:52Z",
-                "open_issues": 46,
+                "last_commit": "2026-09-20T19:37:48Z",
+                "open_issues": 42,
                 "owner": "Hipo",
                 "repo": "university-domains-list",
                 "stars": 1664,
@@ -2172,7 +2172,7 @@
                 "open_issues": 32,
                 "owner": "DenverCoder1",
                 "repo": "readme-typing-svg",
-                "stars": 9349,
+                "stars": 9351,
                 "topics": [
                   "animation",
                   "dynamic",
@@ -2252,7 +2252,7 @@
                 "open_issues": 79,
                 "owner": "r-spacex",
                 "repo": "SpaceX-API",
-                "stars": 10912,
+                "stars": 10913,
                 "topics": [
                   "api",
                   "capsule",
@@ -2834,8 +2834,8 @@
                 "id": 259080904,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-16T00:25:41Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-20T05:22:27Z",
+                "open_issues": 2,
                 "owner": "DiljotSG",
                 "repo": "MCU-Countdown",
                 "stars": 234,
@@ -3000,7 +3000,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T22:19:38.868Z",
+    "last_updated": "2026-09-20T22:26:05.113Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of public APIs for developers",
@@ -3008,11 +3008,11 @@
       "id": 490985210,
       "language": "JavaScript",
       "license": "MIT",
-      "last_commit": "2026-09-19T19:07:11Z",
+      "last_commit": "2026-09-20T00:07:13Z",
       "open_issues": 28,
       "owner": "marcelscruz",
       "repo": "public-apis",
-      "stars": 9482,
+      "stars": 9485,
       "topics": [
         "apis",
         "awesome",
@@ -3025,7 +3025,7 @@
         "resources"
       ]
     },
-    "original_repository_sha": "15fcfaba939fa8029b7850ce815b8dd5b33f3a0e",
+    "original_repository_sha": "92a0b7a928e3e91d8239fb4cd72955975b927de5",
     "enhanced_repository": "enhansome/enhansome-public-apis",
     "enhanced_repository_description": null,
     "title": "Awesome public apis with stars"

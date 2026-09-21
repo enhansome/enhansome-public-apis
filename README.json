@@ -21,7 +21,7 @@
                 "open_issues": 476,
                 "owner": "justadudewhohacks",
                 "repo": "face-api.js",
-                "stars": 17961,
+                "stars": 17962,
                 "topics": [
                   "age-estimation",
                   "emotion-recognition",
@@ -118,7 +118,7 @@
                 "open_issues": 68,
                 "owner": "AniList",
                 "repo": "docs",
-                "stars": 1330,
+                "stars": 1331,
                 "topics": [
                   "anichart",
                   "anilist",
@@ -486,7 +486,7 @@
                 "open_issues": 0,
                 "owner": "binance",
                 "repo": "binance-spot-api-docs",
-                "stars": 4880,
+                "stars": 4879,
                 "topics": [
                   "binance-api",
                   "documentation",
@@ -905,7 +905,7 @@
                 "open_issues": 2,
                 "owner": "sameerkumar18",
                 "repo": "corporate-bs-generator-api",
-                "stars": 358,
+                "stars": 359,
                 "topics": [
                   "api",
                   "bullshit",
@@ -1122,8 +1122,8 @@
                 "id": 55330319,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-19T20:13:42Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-21T21:13:36Z",
+                "open_issues": 4,
                 "owner": "andyklimczak",
                 "repo": "TheReportOfTheWeek-API",
                 "stars": 65,
@@ -1404,7 +1404,7 @@
                 "open_issues": 2,
                 "owner": "Revadike",
                 "repo": "InternalSteamWebAPI",
-                "stars": 648,
+                "stars": 649,
                 "topics": [
                   "api",
                   "api-docs",
@@ -2044,10 +2044,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-08-31T00:55:37Z",
-                "open_issues": 293,
+                "open_issues": 294,
                 "owner": "anuraghazra",
                 "repo": "github-readme-stats",
-                "stars": 79815,
+                "stars": 79818,
                 "topics": [
                   "dynamic",
                   "profile-readme",
@@ -2172,7 +2172,7 @@
                 "open_issues": 32,
                 "owner": "DenverCoder1",
                 "repo": "readme-typing-svg",
-                "stars": 9351,
+                "stars": 9353,
                 "topics": [
                   "animation",
                   "dynamic",
@@ -2252,7 +2252,7 @@
                 "open_issues": 79,
                 "owner": "r-spacex",
                 "repo": "SpaceX-API",
-                "stars": 10913,
+                "stars": 10914,
                 "topics": [
                   "api",
                   "capsule",
@@ -2429,7 +2429,7 @@
               "first_seen": "2026-08-28T04:22:23.931Z"
             }
           ],
-          "description": "| Intelligence X | Perform OSINT via Intelligence X | | Unknown | | IPASIS | Bot detection and fraud prevention API with IP reputation and email validation | | Yes | | LeakInsight | Find leaked or exposed credentials by email, username, phone, domain, hash, or breach origin | | Unknown | | LoginRadius | Managed User Authentication Service | | Yes | | Microsoft Security Response Center (MSRC) | Programmatic interfaces to engage with the Microsoft Security Response Center (MSRC) | No | Unknown | | Mozilla http scanner | Mozilla observatory http scanner | No | Unknown | | Mozilla tls scanner | Mozilla observatory tls scanner | No | Unknown | | National Vulnerability Database | U.S. National Vulnerability Database | No | Unknown | | Offendersearch | Search sex-offender records across all 58 US state, territory and tribal registries in one query; REST API plus open data | | Yes | | OWASP ZAP | Automated security testing API for web apps | No | Unknown | | Passwordinator | Generate random passwords of varying complexities | No | Yes | | PhishStats | Phishing database | No | Unknown | | Portscan | Scans the requesting client's IP for open TCP ports with fast or deep modes on IPv4/IPv6 | No | Yes | | Privacy.com | Generate merchant-specific and one-time use credit card numbers that link back to your bank | | Unknown | | Pulsedive | Scan, search and collect threat intelligence data in real-time | | Unknown | | SecurityTrails | Domain and IP related information such as current and historical WHOIS and DNS records | | Unknown | | Shodan | Search engine for Internet connected devices | | Unknown | | Spyse | Access data on all Internet assets and build powerful attack surface management applications | | Unknown | | ThreatCluster | Threat intelligence API: incident clusters from 20,000 sources, validated IOCs, CVEs with KEV/EPSS status, ransomware leak-site victims | | No | | UK Police | UK Police data | No | Unknown | | Virus and Malware Scan API by attachmentAV | Scan files for viruses, worms, trojans, ransomware, and other kinds of malware by sending them to the attachmentAV API powered by Sophos | | No | | VulDB | VulDB API allows to initiate queries for one or more items along with transactional bots | | Unknown | | Whoisfreaks | Domain and DNS related information that will equip organizaion with comprehensive threat intelligence and attack surface analysis capabilities for enhanced security | | No |\n⬆ Back to Index",
+          "description": "| Intelligence X | Perform OSINT via Intelligence X | | Unknown | | IPASIS | Bot detection and fraud prevention API with IP reputation and email validation | | Yes | | LeakInsight | Find leaked or exposed credentials by email, username, phone, domain, hash, or breach origin | | Unknown | | LoginRadius | Managed User Authentication Service | | Yes | | Microsoft Security Response Center (MSRC) | Programmatic interfaces to engage with the Microsoft Security Response Center (MSRC) | No | Unknown | | Mozilla http scanner | Mozilla observatory http scanner | No | Unknown | | Mozilla tls scanner | Mozilla observatory tls scanner | No | Unknown | | National Vulnerability Database | U.S. National Vulnerability Database | No | Unknown | | Offendersearch | Search sex-offender records across all 58 US state, territory and tribal registries in one query; REST API plus open data | | Yes | | OWASP ZAP | Automated security testing API for web apps | No | Unknown | | Passwordinator | Generate random passwords of varying complexities | No | Yes | | Patronus Protect | Detect prompt injection in text, public webpages and documents for AI agents and RAG pipelines | | No | | PhishStats | Phishing database | No | Unknown | | Portscan | Scans the requesting client's IP for open TCP ports with fast or deep modes on IPv4/IPv6 | No | Yes | | Privacy.com | Generate merchant-specific and one-time use credit card numbers that link back to your bank | | Unknown | | Pulsedive | Scan, search and collect threat intelligence data in real-time | | Unknown | | SecurityTrails | Domain and IP related information such as current and historical WHOIS and DNS records | | Unknown | | Shodan | Search engine for Internet connected devices | | Unknown | | Spyse | Access data on all Internet assets and build powerful attack surface management applications | | Unknown | | ThreatCluster | Threat intelligence API: incident clusters from 20,000 sources, validated IOCs, CVEs with KEV/EPSS status, ransomware leak-site victims | | No | | UK Police | UK Police data | No | Unknown | | Virus and Malware Scan API by attachmentAV | Scan files for viruses, worms, trojans, ransomware, and other kinds of malware by sending them to the attachmentAV API powered by Sophos | | No | | VulDB | VulDB API allows to initiate queries for one or more items along with transactional bots | | Unknown | | Whoisfreaks | Domain and DNS related information that will equip organizaion with comprehensive threat intelligence and attack surface analysis capabilities for enhanced security | | No |\n⬆ Back to Index",
           "node_type": "group",
           "title": "Security"
         },
@@ -2472,7 +2472,7 @@
                 "open_issues": 5,
                 "owner": "HackerNews",
                 "repo": "API",
-                "stars": 13333,
+                "stars": 13337,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -2493,7 +2493,7 @@
                 "open_issues": 11,
                 "owner": "Phineas",
                 "repo": "lanyard",
-                "stars": 1472,
+                "stars": 1475,
                 "topics": [
                   "discord",
                   "discord-rpc",
@@ -3000,7 +3000,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T22:26:05.113Z",
+    "last_updated": "2026-09-21T23:16:23.909Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of public APIs for developers",
@@ -3008,11 +3008,11 @@
       "id": 490985210,
       "language": "JavaScript",
       "license": "MIT",
-      "last_commit": "2026-09-20T00:07:13Z",
-      "open_issues": 28,
+      "last_commit": "2026-09-21T17:02:47Z",
+      "open_issues": 31,
       "owner": "marcelscruz",
       "repo": "public-apis",
-      "stars": 9485,
+      "stars": 9487,
       "topics": [
         "apis",
         "awesome",
@@ -3025,7 +3025,7 @@
         "resources"
       ]
     },
-    "original_repository_sha": "92a0b7a928e3e91d8239fb4cd72955975b927de5",
+    "original_repository_sha": "267efd225194a58586e5a84761ace52628845f65",
     "enhanced_repository": "enhansome/enhansome-public-apis",
     "enhanced_repository_description": null,
     "title": "Awesome public apis with stars"

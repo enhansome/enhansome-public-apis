@@ -21,7 +21,7 @@
                 "open_issues": 476,
                 "owner": "justadudewhohacks",
                 "repo": "face-api.js",
-                "stars": 17962,
+                "stars": 17964,
                 "topics": [
                   "age-estimation",
                   "emotion-recognition",
@@ -118,7 +118,7 @@
                 "open_issues": 68,
                 "owner": "AniList",
                 "repo": "docs",
-                "stars": 1331,
+                "stars": 1333,
                 "topics": [
                   "anichart",
                   "anilist",
@@ -357,7 +357,7 @@
                 "open_issues": 27,
                 "owner": "fawazahmed0",
                 "repo": "quran-api",
-                "stars": 1188,
+                "stars": 1189,
                 "topics": [
                   "al-quran",
                   "api",
@@ -1122,8 +1122,8 @@
                 "id": 55330319,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-21T21:13:36Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-22T00:59:43Z",
+                "open_issues": 3,
                 "owner": "andyklimczak",
                 "repo": "TheReportOfTheWeek-API",
                 "stars": 65,
@@ -1270,7 +1270,7 @@
                 "open_issues": 35,
                 "owner": "favware",
                 "repo": "graphql-pokemon",
-                "stars": 199,
+                "stars": 198,
                 "topics": [
                   "favware",
                   "graphql",
@@ -1968,7 +1968,7 @@
                 "id": 308393711,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-09-17T18:08:44Z",
+                "last_commit": "2026-09-22T19:31:45Z",
                 "open_issues": 1,
                 "owner": "datastreamapp",
                 "repo": "api-docs",
@@ -2015,8 +2015,8 @@
                 "id": 25596429,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-20T19:37:48Z",
-                "open_issues": 42,
+                "last_commit": "2026-09-22T16:27:10Z",
+                "open_issues": 37,
                 "owner": "Hipo",
                 "repo": "university-domains-list",
                 "stars": 1664,
@@ -2044,10 +2044,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-08-31T00:55:37Z",
-                "open_issues": 294,
+                "open_issues": 295,
                 "owner": "anuraghazra",
                 "repo": "github-readme-stats",
-                "stars": 79818,
+                "stars": 79821,
                 "topics": [
                   "dynamic",
                   "profile-readme",
@@ -2172,7 +2172,7 @@
                 "open_issues": 32,
                 "owner": "DenverCoder1",
                 "repo": "readme-typing-svg",
-                "stars": 9353,
+                "stars": 9355,
                 "topics": [
                   "animation",
                   "dynamic",
@@ -2252,7 +2252,7 @@
                 "open_issues": 79,
                 "owner": "r-spacex",
                 "repo": "SpaceX-API",
-                "stars": 10914,
+                "stars": 10913,
                 "topics": [
                   "api",
                   "capsule",
@@ -2356,7 +2356,7 @@
                 "open_issues": 18,
                 "owner": "fingerprintjs",
                 "repo": "BotD",
-                "stars": 1470,
+                "stars": 1471,
                 "topics": [
                   "automation",
                   "bot-detection",
@@ -2472,7 +2472,7 @@
                 "open_issues": 5,
                 "owner": "HackerNews",
                 "repo": "API",
-                "stars": 13337,
+                "stars": 13338,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -2546,7 +2546,7 @@
                 "open_issues": 4,
                 "owner": "azharimm",
                 "repo": "football-standings-api",
-                "stars": 120,
+                "stars": 119,
                 "topics": [
                   "api",
                   "express",
@@ -3000,7 +3000,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T23:16:23.909Z",
+    "last_updated": "2026-09-22T22:56:37.537Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of public APIs for developers",
@@ -3008,11 +3008,11 @@
       "id": 490985210,
       "language": "JavaScript",
       "license": "MIT",
-      "last_commit": "2026-09-21T17:02:47Z",
-      "open_issues": 31,
+      "last_commit": "2026-09-22T09:02:56Z",
+      "open_issues": 30,
       "owner": "marcelscruz",
       "repo": "public-apis",
-      "stars": 9487,
+      "stars": 9489,
       "topics": [
         "apis",
         "awesome",
@@ -3025,7 +3025,7 @@
         "resources"
       ]
     },
-    "original_repository_sha": "267efd225194a58586e5a84761ace52628845f65",
+    "original_repository_sha": "e6774565c486fa21e0f328846b534f6abc042345",
     "enhanced_repository": "enhansome/enhansome-public-apis",
     "enhanced_repository_description": null,
     "title": "Awesome public apis with stars"

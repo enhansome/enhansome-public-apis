@@ -118,7 +118,7 @@
                 "open_issues": 67,
                 "owner": "AniList",
                 "repo": "docs",
-                "stars": 1338,
+                "stars": 1339,
                 "topics": [
                   "anichart",
                   "anilist",
@@ -154,7 +154,7 @@
                 "open_issues": 0,
                 "owner": "cheatsnake",
                 "repo": "emojihub",
-                "stars": 220,
+                "stars": 221,
                 "topics": [
                   "api",
                   "emoji",
@@ -486,7 +486,7 @@
                 "open_issues": 0,
                 "owner": "binance",
                 "repo": "binance-spot-api-docs",
-                "stars": 4895,
+                "stars": 4893,
                 "topics": [
                   "binance-api",
                   "documentation",
@@ -674,7 +674,7 @@
                 "id": 97043763,
                 "language": "JavaScript",
                 "license": "OSL-3.0",
-                "last_commit": "2026-10-05T15:29:39Z",
+                "last_commit": "2026-10-16T15:43:10Z",
                 "open_issues": 7,
                 "owner": "jsdelivr",
                 "repo": "data.jsdelivr.com",
@@ -871,7 +871,7 @@
                 "open_issues": 6,
                 "owner": "macsplit",
                 "repo": "urltomarkdown",
-                "stars": 362,
+                "stars": 363,
                 "topics": [
                   "heroku",
                   "markdown-converter",
@@ -905,7 +905,7 @@
                 "open_issues": 2,
                 "owner": "sameerkumar18",
                 "repo": "corporate-bs-generator-api",
-                "stars": 364,
+                "stars": 365,
                 "topics": [
                   "api",
                   "bullshit",
@@ -930,8 +930,8 @@
                 "homepage": "https://yo-mama.tankobliterator.net",
                 "id": 1185647001,
                 "language": "JavaScript",
-                "license": "NOASSERTION",
-                "last_commit": "2026-10-05T09:15:59Z",
+                "license": "MIT",
+                "last_commit": "2026-10-16T08:27:27Z",
                 "open_issues": 0,
                 "owner": "TankObliterator",
                 "repo": "yo-mama-api",
@@ -1266,7 +1266,7 @@
                 "id": 218856223,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-15T16:44:16Z",
+                "last_commit": "2026-10-16T17:45:12Z",
                 "open_issues": 36,
                 "owner": "favware",
                 "repo": "graphql-pokemon",
@@ -1296,7 +1296,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-06-01T01:40:01Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "gadhagod",
                 "repo": "Hyrule-Compendium-API",
                 "stars": 217,
@@ -1400,7 +1400,7 @@
                 "id": 365224400,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2022-03-26T00:37:07Z",
+                "last_commit": "2026-10-16T20:50:01Z",
                 "open_issues": 2,
                 "owner": "Revadike",
                 "repo": "InternalSteamWebAPI",
@@ -2044,7 +2044,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-01T01:02:55Z",
-                "open_issues": 296,
+                "open_issues": 297,
                 "owner": "anuraghazra",
                 "repo": "github-readme-stats",
                 "stars": 79838,
@@ -2172,7 +2172,7 @@
                 "open_issues": 35,
                 "owner": "DenverCoder1",
                 "repo": "readme-typing-svg",
-                "stars": 9427,
+                "stars": 9433,
                 "topics": [
                   "animation",
                   "dynamic",
@@ -2441,10 +2441,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-10-03T22:06:32Z",
-                "open_issues": 39,
+                "open_issues": 40,
                 "owner": "IntelligenceX",
                 "repo": "SDK",
-                "stars": 558,
+                "stars": 559,
                 "topics": []
               },
               "first_seen": "2026-10-13T02:00:35.547Z"
@@ -2556,7 +2556,7 @@
                 "open_issues": 5,
                 "owner": "HackerNews",
                 "repo": "API",
-                "stars": 13357,
+                "stars": 13358,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -2577,7 +2577,7 @@
                 "open_issues": 11,
                 "owner": "Phineas",
                 "repo": "lanyard",
-                "stars": 1485,
+                "stars": 1483,
                 "topics": [
                   "discord",
                   "discord-rpc",
@@ -2951,7 +2951,7 @@
                 "open_issues": 0,
                 "owner": "F4R4N",
                 "repo": "movie-quote",
-                "stars": 42,
+                "stars": 43,
                 "topics": [
                   "api",
                   "django",
@@ -3084,7 +3084,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T23:04:11.801Z",
+    "last_updated": "2026-10-16T22:51:29.509Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of public APIs for developers",
@@ -3092,11 +3092,11 @@
       "id": 490985210,
       "language": "JavaScript",
       "license": "MIT",
-      "last_commit": "2026-10-15T07:35:02Z",
-      "open_issues": 29,
+      "last_commit": "2026-10-16T11:30:57Z",
+      "open_issues": 26,
       "owner": "marcelscruz",
       "repo": "public-apis",
-      "stars": 9582,
+      "stars": 9585,
       "topics": [
         "apis",
         "awesome",
@@ -3109,7 +3109,7 @@
         "resources"
       ]
     },
-    "original_repository_sha": "7850692f29052587a90ddafe73d21bf3c9a0a74a",
+    "original_repository_sha": "ba7bd1bc2768a23c9c65cd4f837473cb0ddf9ba0",
     "enhanced_repository": "enhansome/enhansome-public-apis",
     "enhanced_repository_description": null,
     "title": "Awesome public apis with stars"

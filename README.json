@@ -21,7 +21,7 @@
                 "open_issues": 475,
                 "owner": "justadudewhohacks",
                 "repo": "face-api.js",
-                "stars": 17983,
+                "stars": 17982,
                 "topics": [
                   "age-estimation",
                   "emotion-recognition",
@@ -185,7 +185,7 @@
                 "open_issues": 20,
                 "owner": "harvardartmuseums",
                 "repo": "api-docs",
-                "stars": 423,
+                "stars": 424,
                 "topics": [
                   "api",
                   "iiif",
@@ -1044,7 +1044,7 @@
                 "open_issues": 2,
                 "owner": "surhud004",
                 "repo": "Foodish",
-                "stars": 128,
+                "stars": 129,
                 "topics": [
                   "food",
                   "foodish",
@@ -1105,7 +1105,7 @@
                 "open_issues": 6,
                 "owner": "evz",
                 "repo": "tacofancy-api",
-                "stars": 130,
+                "stars": 131,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -1266,7 +1266,7 @@
                 "id": 218856223,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-17T04:47:29Z",
+                "last_commit": "2026-10-18T13:45:19Z",
                 "open_issues": 36,
                 "owner": "favware",
                 "repo": "graphql-pokemon",
@@ -1325,7 +1325,7 @@
                 "id": 239970041,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-13T09:55:28Z",
+                "last_commit": "2026-10-18T11:51:23Z",
                 "open_issues": 2,
                 "owner": "mazipan",
                 "repo": "graphql-pokeapi",
@@ -1404,7 +1404,7 @@
                 "open_issues": 2,
                 "owner": "Revadike",
                 "repo": "InternalSteamWebAPI",
-                "stars": 653,
+                "stars": 654,
                 "topics": [
                   "api",
                   "api-docs",
@@ -1437,7 +1437,7 @@
                 "id": 259080904,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-11T05:22:55Z",
+                "last_commit": "2026-10-18T05:22:33Z",
                 "open_issues": 5,
                 "owner": "DiljotSG",
                 "repo": "MCU-Countdown",
@@ -1789,7 +1789,7 @@
                 "open_issues": 11,
                 "owner": "cyberboysumanjay",
                 "repo": "JioSaavnAPI",
-                "stars": 465,
+                "stars": 467,
                 "topics": [
                   "api",
                   "downloadermp3",
@@ -2047,7 +2047,7 @@
                 "open_issues": 297,
                 "owner": "anuraghazra",
                 "repo": "github-readme-stats",
-                "stars": 79841,
+                "stars": 79843,
                 "topics": [
                   "dynamic",
                   "profile-readme",
@@ -2172,7 +2172,7 @@
                 "open_issues": 35,
                 "owner": "DenverCoder1",
                 "repo": "readme-typing-svg",
-                "stars": 9437,
+                "stars": 9442,
                 "topics": [
                   "animation",
                   "dynamic",
@@ -2252,7 +2252,7 @@
                 "open_issues": 79,
                 "owner": "r-spacex",
                 "repo": "SpaceX-API",
-                "stars": 10914,
+                "stars": 10915,
                 "topics": [
                   "api",
                   "capsule",
@@ -2356,7 +2356,7 @@
                 "open_issues": 18,
                 "owner": "fingerprintjs",
                 "repo": "BotD",
-                "stars": 1482,
+                "stars": 1483,
                 "topics": [
                   "automation",
                   "bot-detection",
@@ -2444,7 +2444,7 @@
                 "open_issues": 40,
                 "owner": "IntelligenceX",
                 "repo": "SDK",
-                "stars": 559,
+                "stars": 560,
                 "topics": []
               },
               "first_seen": "2026-10-13T02:00:35.547Z"
@@ -2556,7 +2556,7 @@
                 "open_issues": 5,
                 "owner": "HackerNews",
                 "repo": "API",
-                "stars": 13358,
+                "stars": 13359,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -2811,7 +2811,7 @@
                 "open_issues": 8,
                 "owner": "shevabam",
                 "repo": "breaking-bad-quotes",
-                "stars": 466,
+                "stars": 465,
                 "topics": [
                   "api",
                   "breaking-bad",
@@ -2865,7 +2865,7 @@
                 "open_issues": 6,
                 "owner": "TelegramPlayground",
                 "repo": "Free-Movie-Series-DB-API",
-                "stars": 174,
+                "stars": 175,
                 "topics": [
                   "api",
                   "bot",
@@ -2918,7 +2918,7 @@
                 "id": 259080904,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-11T05:22:55Z",
+                "last_commit": "2026-10-18T05:22:33Z",
                 "open_issues": 5,
                 "owner": "DiljotSG",
                 "repo": "MCU-Countdown",
@@ -3084,7 +3084,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T22:17:56.947Z",
+    "last_updated": "2026-10-18T22:25:37.306Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of public APIs for developers",
@@ -3092,11 +3092,11 @@
       "id": 490985210,
       "language": "JavaScript",
       "license": "MIT",
-      "last_commit": "2026-10-17T19:17:21Z",
-      "open_issues": 26,
+      "last_commit": "2026-10-18T19:27:14Z",
+      "open_issues": 27,
       "owner": "marcelscruz",
       "repo": "public-apis",
-      "stars": 9588,
+      "stars": 9591,
       "topics": [
         "apis",
         "awesome",
@@ -3109,7 +3109,7 @@
         "resources"
       ]
     },
-    "original_repository_sha": "d1b193a7711a7e1b7334da3f56a7e0abb601c9bc",
+    "original_repository_sha": "944f698bda3d8db16445d09719587bdcfe798f59",
     "enhanced_repository": "enhansome/enhansome-public-apis",
     "enhanced_repository_description": null,
     "title": "Awesome public apis with stars"

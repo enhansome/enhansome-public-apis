@@ -118,7 +118,7 @@
                 "open_issues": 67,
                 "owner": "AniList",
                 "repo": "docs",
-                "stars": 1341,
+                "stars": 1340,
                 "topics": [
                   "anichart",
                   "anilist",
@@ -357,7 +357,7 @@
                 "open_issues": 30,
                 "owner": "fawazahmed0",
                 "repo": "quran-api",
-                "stars": 1195,
+                "stars": 1197,
                 "topics": [
                   "al-quran",
                   "api",
@@ -486,7 +486,7 @@
                 "open_issues": 0,
                 "owner": "binance",
                 "repo": "binance-spot-api-docs",
-                "stars": 4895,
+                "stars": 4894,
                 "topics": [
                   "binance-api",
                   "documentation",
@@ -807,7 +807,7 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2023-05-05T02:32:23Z",
-                "open_issues": 28,
+                "open_issues": 29,
                 "owner": "Cgboal",
                 "repo": "SonarSearch",
                 "stars": 651,
@@ -1270,7 +1270,7 @@
                 "open_issues": 36,
                 "owner": "favware",
                 "repo": "graphql-pokemon",
-                "stars": 198,
+                "stars": 199,
                 "topics": [
                   "favware",
                   "graphql",
@@ -1923,7 +1923,7 @@
                 "open_issues": 2,
                 "owner": "NHagar",
                 "repo": "substack_api",
-                "stars": 231,
+                "stars": 232,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -2019,7 +2019,7 @@
                 "open_issues": 38,
                 "owner": "Hipo",
                 "repo": "university-domains-list",
-                "stars": 1670,
+                "stars": 1671,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -2047,7 +2047,7 @@
                 "open_issues": 297,
                 "owner": "anuraghazra",
                 "repo": "github-readme-stats",
-                "stars": 79843,
+                "stars": 79844,
                 "topics": [
                   "dynamic",
                   "profile-readme",
@@ -2139,7 +2139,7 @@
                 "open_issues": 15,
                 "owner": "azharimm",
                 "repo": "phone-specs-api",
-                "stars": 181,
+                "stars": 182,
                 "topics": [
                   "api",
                   "express",
@@ -2168,11 +2168,11 @@
                 "id": 359687154,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-03T21:51:17Z",
-                "open_issues": 35,
+                "last_commit": "2026-10-19T18:49:01Z",
+                "open_issues": 28,
                 "owner": "DenverCoder1",
                 "repo": "readme-typing-svg",
-                "stars": 9442,
+                "stars": 9446,
                 "topics": [
                   "animation",
                   "dynamic",
@@ -2356,7 +2356,7 @@
                 "open_issues": 18,
                 "owner": "fingerprintjs",
                 "repo": "BotD",
-                "stars": 1483,
+                "stars": 1484,
                 "topics": [
                   "automation",
                   "bot-detection",
@@ -2444,7 +2444,7 @@
                 "open_issues": 40,
                 "owner": "IntelligenceX",
                 "repo": "SDK",
-                "stars": 560,
+                "stars": 561,
                 "topics": []
               },
               "first_seen": "2026-10-13T02:00:35.547Z"
@@ -2465,7 +2465,7 @@
                 "open_issues": 88,
                 "owner": "mozilla",
                 "repo": "http-observatory",
-                "stars": 1848,
+                "stars": 1849,
                 "topics": []
               },
               "first_seen": "2026-10-13T02:00:35.547Z"
@@ -2556,7 +2556,7 @@
                 "open_issues": 5,
                 "owner": "HackerNews",
                 "repo": "API",
-                "stars": 13359,
+                "stars": 13361,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -2577,7 +2577,7 @@
                 "open_issues": 11,
                 "owner": "Phineas",
                 "repo": "lanyard",
-                "stars": 1483,
+                "stars": 1484,
                 "topics": [
                   "discord",
                   "discord-rpc",
@@ -2630,7 +2630,7 @@
                 "open_issues": 4,
                 "owner": "azharimm",
                 "repo": "football-standings-api",
-                "stars": 119,
+                "stars": 120,
                 "topics": [
                   "api",
                   "express",
@@ -3084,7 +3084,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T22:25:37.306Z",
+    "last_updated": "2026-10-19T23:41:18.616Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of public APIs for developers",
@@ -3092,11 +3092,11 @@
       "id": 490985210,
       "language": "JavaScript",
       "license": "MIT",
-      "last_commit": "2026-10-18T19:27:14Z",
+      "last_commit": "2026-10-19T23:17:42Z",
       "open_issues": 27,
       "owner": "marcelscruz",
       "repo": "public-apis",
-      "stars": 9591,
+      "stars": 9594,
       "topics": [
         "apis",
         "awesome",
@@ -3109,7 +3109,7 @@
         "resources"
       ]
     },
-    "original_repository_sha": "944f698bda3d8db16445d09719587bdcfe798f59",
+    "original_repository_sha": "00eb64f9347dc1f6fd53a4ef90d94e84c071d709",
     "enhanced_repository": "enhansome/enhansome-public-apis",
     "enhanced_repository_description": null,
     "title": "Awesome public apis with stars"

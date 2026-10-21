@@ -21,7 +21,7 @@
                 "open_issues": 475,
                 "owner": "justadudewhohacks",
                 "repo": "face-api.js",
-                "stars": 17984,
+                "stars": 17986,
                 "topics": [
                   "age-estimation",
                   "emotion-recognition",
@@ -118,7 +118,7 @@
                 "open_issues": 67,
                 "owner": "AniList",
                 "repo": "docs",
-                "stars": 1340,
+                "stars": 1342,
                 "topics": [
                   "anichart",
                   "anilist",
@@ -336,7 +336,7 @@
                 "open_issues": 4,
                 "owner": "thundercomb",
                 "repo": "poetrydb",
-                "stars": 660,
+                "stars": 661,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -357,7 +357,7 @@
                 "open_issues": 30,
                 "owner": "fawazahmed0",
                 "repo": "quran-api",
-                "stars": 1197,
+                "stars": 1198,
                 "topics": [
                   "al-quran",
                   "api",
@@ -486,7 +486,7 @@
                 "open_issues": 0,
                 "owner": "binance",
                 "repo": "binance-spot-api-docs",
-                "stars": 4894,
+                "stars": 4895,
                 "topics": [
                   "binance-api",
                   "documentation",
@@ -674,7 +674,7 @@
                 "id": 97043763,
                 "language": "JavaScript",
                 "license": "OSL-3.0",
-                "last_commit": "2026-10-20T14:58:41Z",
+                "last_commit": "2026-10-21T15:49:50Z",
                 "open_issues": 8,
                 "owner": "jsdelivr",
                 "repo": "data.jsdelivr.com",
@@ -905,7 +905,7 @@
                 "open_issues": 2,
                 "owner": "sameerkumar18",
                 "repo": "corporate-bs-generator-api",
-                "stars": 367,
+                "stars": 368,
                 "topics": [
                   "api",
                   "bullshit",
@@ -1266,7 +1266,7 @@
                 "id": 218856223,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-20T12:47:55Z",
+                "last_commit": "2026-10-21T22:47:26Z",
                 "open_issues": 36,
                 "owner": "favware",
                 "repo": "graphql-pokemon",
@@ -1441,7 +1441,7 @@
                 "open_issues": 5,
                 "owner": "DiljotSG",
                 "repo": "MCU-Countdown",
-                "stars": 238,
+                "stars": 239,
                 "topics": [
                   "api",
                   "docker",
@@ -2047,7 +2047,7 @@
                 "open_issues": 295,
                 "owner": "anuraghazra",
                 "repo": "github-readme-stats",
-                "stars": 79841,
+                "stars": 79842,
                 "topics": [
                   "dynamic",
                   "profile-readme",
@@ -2172,7 +2172,7 @@
                 "open_issues": 28,
                 "owner": "DenverCoder1",
                 "repo": "readme-typing-svg",
-                "stars": 9448,
+                "stars": 9452,
                 "topics": [
                   "animation",
                   "dynamic",
@@ -2252,7 +2252,7 @@
                 "open_issues": 79,
                 "owner": "r-spacex",
                 "repo": "SpaceX-API",
-                "stars": 10914,
+                "stars": 10913,
                 "topics": [
                   "api",
                   "capsule",
@@ -2352,8 +2352,8 @@
                 "id": 346424381,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-13T10:48:05Z",
-                "open_issues": 18,
+                "last_commit": "2026-10-21T18:57:48Z",
+                "open_issues": 19,
                 "owner": "fingerprintjs",
                 "repo": "BotD",
                 "stars": 1485,
@@ -2556,7 +2556,7 @@
                 "open_issues": 5,
                 "owner": "HackerNews",
                 "repo": "API",
-                "stars": 13362,
+                "stars": 13364,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -2573,7 +2573,7 @@
                 "id": 346433598,
                 "language": "Elixir",
                 "license": "MIT",
-                "last_commit": "2026-08-15T22:52:23Z",
+                "last_commit": "2026-10-21T22:40:31Z",
                 "open_issues": 11,
                 "owner": "Phineas",
                 "repo": "lanyard",
@@ -2811,7 +2811,7 @@
                 "open_issues": 8,
                 "owner": "shevabam",
                 "repo": "breaking-bad-quotes",
-                "stars": 465,
+                "stars": 467,
                 "topics": [
                   "api",
                   "breaking-bad",
@@ -2922,7 +2922,7 @@
                 "open_issues": 5,
                 "owner": "DiljotSG",
                 "repo": "MCU-Countdown",
-                "stars": 238,
+                "stars": 239,
                 "topics": [
                   "api",
                   "docker",
@@ -3062,7 +3062,7 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-10-12T18:10:23Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "robertoduessmann",
                 "repo": "weather-api",
                 "stars": 485,
@@ -3084,7 +3084,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T23:10:53.741Z",
+    "last_updated": "2026-10-21T23:18:29.698Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of public APIs for developers",
@@ -3093,10 +3093,10 @@
       "language": "JavaScript",
       "license": "MIT",
       "last_commit": "2026-10-20T15:51:09Z",
-      "open_issues": 31,
+      "open_issues": 39,
       "owner": "marcelscruz",
       "repo": "public-apis",
-      "stars": 9602,
+      "stars": 9609,
       "topics": [
         "apis",
         "awesome",

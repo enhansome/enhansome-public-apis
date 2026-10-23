@@ -18,10 +18,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2024-01-24T09:25:35Z",
-                "open_issues": 475,
+                "open_issues": 476,
                 "owner": "justadudewhohacks",
                 "repo": "face-api.js",
-                "stars": 17985,
+                "stars": 17986,
                 "topics": [
                   "age-estimation",
                   "emotion-recognition",
@@ -357,7 +357,7 @@
                 "open_issues": 30,
                 "owner": "fawazahmed0",
                 "repo": "quran-api",
-                "stars": 1198,
+                "stars": 1200,
                 "topics": [
                   "al-quran",
                   "api",
@@ -486,7 +486,7 @@
                 "open_issues": 0,
                 "owner": "binance",
                 "repo": "binance-spot-api-docs",
-                "stars": 4896,
+                "stars": 4898,
                 "topics": [
                   "binance-api",
                   "documentation",
@@ -674,7 +674,7 @@
                 "id": 97043763,
                 "language": "JavaScript",
                 "license": "OSL-3.0",
-                "last_commit": "2026-10-22T12:29:50Z",
+                "last_commit": "2026-10-23T21:56:51Z",
                 "open_issues": 7,
                 "owner": "jsdelivr",
                 "repo": "data.jsdelivr.com",
@@ -905,7 +905,7 @@
                 "open_issues": 2,
                 "owner": "sameerkumar18",
                 "repo": "corporate-bs-generator-api",
-                "stars": 368,
+                "stars": 367,
                 "topics": [
                   "api",
                   "bullshit",
@@ -1756,7 +1756,7 @@
                 "open_issues": 4,
                 "owner": "cyberboysumanjay",
                 "repo": "GaanaAPI",
-                "stars": 152,
+                "stars": 153,
                 "topics": [
                   "api",
                   "flask",
@@ -1789,7 +1789,7 @@
                 "open_issues": 11,
                 "owner": "cyberboysumanjay",
                 "repo": "JioSaavnAPI",
-                "stars": 467,
+                "stars": 468,
                 "topics": [
                   "api",
                   "downloadermp3",
@@ -1835,7 +1835,7 @@
                 "open_issues": 20,
                 "owner": "feedbin",
                 "repo": "feedbin-api",
-                "stars": 410,
+                "stars": 409,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -1944,7 +1944,7 @@
                 "open_issues": 12,
                 "owner": "theoldreader",
                 "repo": "api",
-                "stars": 205,
+                "stars": 204,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -2019,7 +2019,7 @@
                 "open_issues": 38,
                 "owner": "Hipo",
                 "repo": "university-domains-list",
-                "stars": 1672,
+                "stars": 1674,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -2044,10 +2044,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-01T01:02:55Z",
-                "open_issues": 297,
+                "open_issues": 295,
                 "owner": "anuraghazra",
                 "repo": "github-readme-stats",
-                "stars": 79839,
+                "stars": 79840,
                 "topics": [
                   "dynamic",
                   "profile-readme",
@@ -2102,7 +2102,7 @@
                 "open_issues": 2,
                 "owner": "tlcheah2",
                 "repo": "stoic-quote-lambda-public-api",
-                "stars": 117,
+                "stars": 118,
                 "topics": [
                   "aws-apigateway",
                   "aws-lambda",
@@ -2172,7 +2172,7 @@
                 "open_issues": 28,
                 "owner": "DenverCoder1",
                 "repo": "readme-typing-svg",
-                "stars": 9460,
+                "stars": 9462,
                 "topics": [
                   "animation",
                   "dynamic",
@@ -2289,7 +2289,7 @@
                 "open_issues": 1,
                 "owner": "FranP-code",
                 "repo": "API-Times-Adder",
-                "stars": 2,
+                "stars": 3,
                 "topics": [
                   "api",
                   "api-rest",
@@ -2556,7 +2556,7 @@
                 "open_issues": 5,
                 "owner": "HackerNews",
                 "repo": "API",
-                "stars": 13363,
+                "stars": 13366,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -2865,7 +2865,7 @@
                 "open_issues": 6,
                 "owner": "TelegramPlayground",
                 "repo": "Free-Movie-Series-DB-API",
-                "stars": 175,
+                "stars": 176,
                 "topics": [
                   "api",
                   "bot",
@@ -3084,7 +3084,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T23:22:24.617Z",
+    "last_updated": "2026-10-23T23:08:22.717Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of public APIs for developers",
@@ -3092,11 +3092,11 @@
       "id": 490985210,
       "language": "JavaScript",
       "license": "MIT",
-      "last_commit": "2026-10-22T23:22:08Z",
-      "open_issues": 23,
+      "last_commit": "2026-10-23T19:22:25Z",
+      "open_issues": 21,
       "owner": "marcelscruz",
       "repo": "public-apis",
-      "stars": 9613,
+      "stars": 9621,
       "topics": [
         "apis",
         "awesome",
@@ -3109,7 +3109,7 @@
         "resources"
       ]
     },
-    "original_repository_sha": "49daa7a8027b51837ce67cac632296aa64204d73",
+    "original_repository_sha": "6f28933addeeb6ba6c61332416332ebeff093700",
     "enhanced_repository": "enhansome/enhansome-public-apis",
     "enhanced_repository_description": null,
     "title": "Awesome public apis with stars"

@@ -118,7 +118,7 @@
                 "open_issues": 67,
                 "owner": "AniList",
                 "repo": "docs",
-                "stars": 1345,
+                "stars": 1344,
                 "topics": [
                   "anichart",
                   "anilist",
@@ -185,7 +185,7 @@
                 "open_issues": 20,
                 "owner": "harvardartmuseums",
                 "repo": "api-docs",
-                "stars": 424,
+                "stars": 425,
                 "topics": [
                   "api",
                   "iiif",
@@ -336,7 +336,7 @@
                 "open_issues": 4,
                 "owner": "thundercomb",
                 "repo": "poetrydb",
-                "stars": 661,
+                "stars": 662,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -357,7 +357,7 @@
                 "open_issues": 30,
                 "owner": "fawazahmed0",
                 "repo": "quran-api",
-                "stars": 1200,
+                "stars": 1201,
                 "topics": [
                   "al-quran",
                   "api",
@@ -486,7 +486,7 @@
                 "open_issues": 1,
                 "owner": "binance",
                 "repo": "binance-spot-api-docs",
-                "stars": 4900,
+                "stars": 4901,
                 "topics": [
                   "binance-api",
                   "documentation",
@@ -1234,7 +1234,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-03-23T15:36:56Z",
-                "open_issues": 19,
+                "open_issues": 20,
                 "owner": "sameerkumar18",
                 "repo": "geek-joke-api",
                 "stars": 127,
@@ -1266,8 +1266,8 @@
                 "id": 218856223,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-25T05:43:37Z",
-                "open_issues": 17,
+                "last_commit": "2026-10-26T18:16:50Z",
+                "open_issues": 12,
                 "owner": "favware",
                 "repo": "graphql-pokemon",
                 "stars": 200,
@@ -1560,7 +1560,7 @@
                 "open_issues": 15,
                 "owner": "IcaliaLabs",
                 "repo": "sepomex",
-                "stars": 107,
+                "stars": 108,
                 "topics": [
                   "api",
                   "grape",
@@ -2047,7 +2047,7 @@
                 "open_issues": 296,
                 "owner": "anuraghazra",
                 "repo": "github-readme-stats",
-                "stars": 79855,
+                "stars": 79856,
                 "topics": [
                   "dynamic",
                   "profile-readme",
@@ -2081,7 +2081,7 @@
                 "open_issues": 10,
                 "owner": "Medium",
                 "repo": "medium-api-docs",
-                "stars": 2333,
+                "stars": 2334,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -2172,7 +2172,7 @@
                 "open_issues": 28,
                 "owner": "DenverCoder1",
                 "repo": "readme-typing-svg",
-                "stars": 9466,
+                "stars": 9473,
                 "topics": [
                   "animation",
                   "dynamic",
@@ -2252,7 +2252,7 @@
                 "open_issues": 79,
                 "owner": "r-spacex",
                 "repo": "SpaceX-API",
-                "stars": 10916,
+                "stars": 10915,
                 "topics": [
                   "api",
                   "capsule",
@@ -2352,11 +2352,11 @@
                 "id": 346424381,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-21T18:57:48Z",
+                "last_commit": "2026-10-26T09:47:09Z",
                 "open_issues": 19,
                 "owner": "fingerprintjs",
                 "repo": "BotD",
-                "stars": 1486,
+                "stars": 1488,
                 "topics": [
                   "automation",
                   "bot-detection",
@@ -2535,7 +2535,7 @@
                 "open_issues": 24,
                 "owner": "4chan",
                 "repo": "4chan-API",
-                "stars": 1113,
+                "stars": 1114,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -2556,7 +2556,7 @@
                 "open_issues": 5,
                 "owner": "HackerNews",
                 "repo": "API",
-                "stars": 13375,
+                "stars": 13380,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -2574,7 +2574,7 @@
                 "language": "Elixir",
                 "license": "MIT",
                 "last_commit": "2026-10-22T06:44:55Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "Phineas",
                 "repo": "lanyard",
                 "stars": 1484,
@@ -3065,7 +3065,7 @@
                 "open_issues": 6,
                 "owner": "robertoduessmann",
                 "repo": "weather-api",
-                "stars": 485,
+                "stars": 486,
                 "topics": [
                   "golang",
                   "weather",
@@ -3084,7 +3084,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T22:32:52.313Z",
+    "last_updated": "2026-10-26T23:52:42.409Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of public APIs for developers",
@@ -3092,11 +3092,11 @@
       "id": 490985210,
       "language": "JavaScript",
       "license": "MIT",
-      "last_commit": "2026-10-25T19:13:34Z",
-      "open_issues": 23,
+      "last_commit": "2026-10-26T23:22:58Z",
+      "open_issues": 30,
       "owner": "marcelscruz",
       "repo": "public-apis",
-      "stars": 9632,
+      "stars": 9643,
       "topics": [
         "apis",
         "awesome",
@@ -3109,7 +3109,7 @@
         "resources"
       ]
     },
-    "original_repository_sha": "fcec80ca87d9c0bcf00c5d9153fbe3c25ebbc297",
+    "original_repository_sha": "0e12b361f7633ad06e875588db388fc5f6a9ff84",
     "enhanced_repository": "enhansome/enhansome-public-apis",
     "enhanced_repository_description": null,
     "title": "Awesome public apis with stars"

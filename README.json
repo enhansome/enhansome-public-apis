@@ -21,7 +21,7 @@
                 "open_issues": 476,
                 "owner": "justadudewhohacks",
                 "repo": "face-api.js",
-                "stars": 17991,
+                "stars": 17992,
                 "topics": [
                   "age-estimation",
                   "emotion-recognition",
@@ -185,7 +185,7 @@
                 "open_issues": 20,
                 "owner": "harvardartmuseums",
                 "repo": "api-docs",
-                "stars": 425,
+                "stars": 426,
                 "topics": [
                   "api",
                   "iiif",
@@ -482,7 +482,7 @@
                 "id": 316913418,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-10-29T07:35:19Z",
+                "last_commit": "2026-10-30T04:03:54Z",
                 "open_issues": 1,
                 "owner": "binance",
                 "repo": "binance-spot-api-docs",
@@ -540,8 +540,8 @@
                 "id": 216516213,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-10-27T04:27:32Z",
-                "open_issues": 17,
+                "last_commit": "2026-10-30T10:18:45Z",
+                "open_issues": 16,
                 "owner": "btcid",
                 "repo": "indodax-official-api-docs",
                 "stars": 174,
@@ -1069,7 +1069,7 @@
                 "id": 900943508,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-29T23:16:19Z",
+                "last_commit": "2026-10-30T00:17:05Z",
                 "open_issues": 0,
                 "owner": "alxiw",
                 "repo": "punkapi",
@@ -1923,7 +1923,7 @@
                 "open_issues": 2,
                 "owner": "NHagar",
                 "repo": "substack_api",
-                "stars": 233,
+                "stars": 232,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -2044,10 +2044,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-01T01:02:55Z",
-                "open_issues": 296,
+                "open_issues": 297,
                 "owner": "anuraghazra",
                 "repo": "github-readme-stats",
-                "stars": 79859,
+                "stars": 79863,
                 "topics": [
                   "dynamic",
                   "profile-readme",
@@ -2168,8 +2168,8 @@
                 "id": 359687154,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-27T15:58:44Z",
-                "open_issues": 28,
+                "last_commit": "2026-10-30T19:32:33Z",
+                "open_issues": 30,
                 "owner": "DenverCoder1",
                 "repo": "readme-typing-svg",
                 "stars": 9479,
@@ -2356,7 +2356,7 @@
                 "open_issues": 19,
                 "owner": "fingerprintjs",
                 "repo": "BotD",
-                "stars": 1490,
+                "stars": 1492,
                 "topics": [
                   "automation",
                   "bot-detection",
@@ -2444,7 +2444,7 @@
                 "open_issues": 40,
                 "owner": "IntelligenceX",
                 "repo": "SDK",
-                "stars": 561,
+                "stars": 562,
                 "topics": []
               },
               "first_seen": "2026-10-13T02:00:35.547Z"
@@ -2486,7 +2486,7 @@
                 "open_issues": 67,
                 "owner": "mozilla",
                 "repo": "tls-observatory",
-                "stars": 544,
+                "stars": 542,
                 "topics": []
               },
               "first_seen": "2026-10-13T02:00:35.547Z"
@@ -2556,7 +2556,7 @@
                 "open_issues": 5,
                 "owner": "HackerNews",
                 "repo": "API",
-                "stars": 13385,
+                "stars": 13386,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -2811,7 +2811,7 @@
                 "open_issues": 8,
                 "owner": "shevabam",
                 "repo": "breaking-bad-quotes",
-                "stars": 467,
+                "stars": 468,
                 "topics": [
                   "api",
                   "breaking-bad",
@@ -3084,7 +3084,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T23:56:27.672Z",
+    "last_updated": "2026-10-30T23:45:42.317Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of public APIs for developers",
@@ -3092,11 +3092,11 @@
       "id": 490985210,
       "language": "JavaScript",
       "license": "MIT",
-      "last_commit": "2026-10-29T15:09:45Z",
-      "open_issues": 24,
+      "last_commit": "2026-10-30T19:10:09Z",
+      "open_issues": 25,
       "owner": "marcelscruz",
       "repo": "public-apis",
-      "stars": 9654,
+      "stars": 9659,
       "topics": [
         "apis",
         "awesome",
@@ -3109,7 +3109,7 @@
         "resources"
       ]
     },
-    "original_repository_sha": "5e5b717ed0858d482b26bee7fe9818be85bb6163",
+    "original_repository_sha": "a9ec57083f2824082cb7475828f34fbe67347b92",
     "enhanced_repository": "enhansome/enhansome-public-apis",
     "enhanced_repository_description": null,
     "title": "Awesome public apis with stars"

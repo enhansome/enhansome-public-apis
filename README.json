@@ -62,7 +62,7 @@
                 "open_issues": 22,
                 "owner": "wh-iterabb-it",
                 "repo": "meowfacts",
-                "stars": 555,
+                "stars": 554,
                 "topics": [
                   "api",
                   "catfacts",
@@ -118,7 +118,7 @@
                 "open_issues": 67,
                 "owner": "AniList",
                 "repo": "docs",
-                "stars": 1344,
+                "stars": 1343,
                 "topics": [
                   "anichart",
                   "anilist",
@@ -486,7 +486,7 @@
                 "open_issues": 1,
                 "owner": "binance",
                 "repo": "binance-spot-api-docs",
-                "stars": 4902,
+                "stars": 4904,
                 "topics": [
                   "binance-api",
                   "documentation",
@@ -674,8 +674,8 @@
                 "id": 97043763,
                 "language": "JavaScript",
                 "license": "OSL-3.0",
-                "last_commit": "2026-10-29T17:26:44Z",
-                "open_issues": 7,
+                "last_commit": "2026-11-07T23:36:39Z",
+                "open_issues": 9,
                 "owner": "jsdelivr",
                 "repo": "data.jsdelivr.com",
                 "stars": 250,
@@ -1441,7 +1441,7 @@
                 "open_issues": 4,
                 "owner": "DiljotSG",
                 "repo": "MCU-Countdown",
-                "stars": 240,
+                "stars": 239,
                 "topics": [
                   "api",
                   "docker",
@@ -1530,7 +1530,7 @@
                 "open_issues": 31,
                 "owner": "lennertVanSever",
                 "repo": "graphcountries",
-                "stars": 81,
+                "stars": 82,
                 "topics": [
                   "countries-api",
                   "currencies",
@@ -1625,7 +1625,7 @@
                 "open_issues": 0,
                 "owner": "dedline-io",
                 "repo": "dedline-api",
-                "stars": 3,
+                "stars": 4,
                 "topics": [
                   "civic-tech",
                   "democracy",
@@ -1892,7 +1892,7 @@
                 "open_issues": 10,
                 "owner": "cyberboysumanjay",
                 "repo": "Inshorts-News-API",
-                "stars": 290,
+                "stars": 291,
                 "topics": [
                   "api",
                   "flask",
@@ -2047,7 +2047,7 @@
                 "open_issues": 299,
                 "owner": "anuraghazra",
                 "repo": "github-readme-stats",
-                "stars": 79848,
+                "stars": 79846,
                 "topics": [
                   "dynamic",
                   "profile-readme",
@@ -2172,7 +2172,7 @@
                 "open_issues": 31,
                 "owner": "DenverCoder1",
                 "repo": "readme-typing-svg",
-                "stars": 9503,
+                "stars": 9505,
                 "topics": [
                   "animation",
                   "dynamic",
@@ -2356,7 +2356,7 @@
                 "open_issues": 20,
                 "owner": "fingerprintjs",
                 "repo": "BotD",
-                "stars": 1493,
+                "stars": 1494,
                 "topics": [
                   "automation",
                   "bot-detection",
@@ -2535,7 +2535,7 @@
                 "open_issues": 24,
                 "owner": "4chan",
                 "repo": "4chan-API",
-                "stars": 1116,
+                "stars": 1117,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -2577,7 +2577,7 @@
                 "open_issues": 13,
                 "owner": "Phineas",
                 "repo": "lanyard",
-                "stars": 1492,
+                "stars": 1491,
                 "topics": [
                   "discord",
                   "discord-rpc",
@@ -2922,7 +2922,7 @@
                 "open_issues": 4,
                 "owner": "DiljotSG",
                 "repo": "MCU-Countdown",
-                "stars": 240,
+                "stars": 239,
                 "topics": [
                   "api",
                   "docker",
@@ -3084,7 +3084,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T00:06:17.090Z",
+    "last_updated": "2026-11-07T23:37:58.153Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of public APIs for developers",
@@ -3092,11 +3092,11 @@
       "id": 490985210,
       "language": "JavaScript",
       "license": "MIT",
-      "last_commit": "2026-11-06T23:12:14Z",
-      "open_issues": 27,
+      "last_commit": "2026-11-07T23:07:56Z",
+      "open_issues": 26,
       "owner": "marcelscruz",
       "repo": "public-apis",
-      "stars": 9687,
+      "stars": 9690,
       "topics": [
         "apis",
         "awesome",
@@ -3109,7 +3109,7 @@
         "resources"
       ]
     },
-    "original_repository_sha": "b39079ede3dd98ecba0d66df66951f94521beb75",
+    "original_repository_sha": "50a2b05d8ac735ee57b3db3483708ece3c7b7ea9",
     "enhanced_repository": "enhansome/enhansome-public-apis",
     "enhanced_repository_description": null,
     "title": "Awesome public apis with stars"

@@ -21,7 +21,7 @@
                 "open_issues": 476,
                 "owner": "justadudewhohacks",
                 "repo": "face-api.js",
-                "stars": 17993,
+                "stars": 17995,
                 "topics": [
                   "age-estimation",
                   "emotion-recognition",
@@ -185,7 +185,7 @@
                 "open_issues": 20,
                 "owner": "harvardartmuseums",
                 "repo": "api-docs",
-                "stars": 427,
+                "stars": 428,
                 "topics": [
                   "api",
                   "iiif",
@@ -332,8 +332,8 @@
                 "id": 25177924,
                 "language": "Ruby",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-09T16:14:03Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-10T19:47:25Z",
+                "open_issues": 2,
                 "owner": "thundercomb",
                 "repo": "poetrydb",
                 "stars": 662,
@@ -357,7 +357,7 @@
                 "open_issues": 31,
                 "owner": "fawazahmed0",
                 "repo": "quran-api",
-                "stars": 1211,
+                "stars": 1213,
                 "topics": [
                   "al-quran",
                   "api",
@@ -486,7 +486,7 @@
                 "open_issues": 1,
                 "owner": "binance",
                 "repo": "binance-spot-api-docs",
-                "stars": 4906,
+                "stars": 4908,
                 "topics": [
                   "binance-api",
                   "documentation",
@@ -540,8 +540,8 @@
                 "id": 216516213,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-10-30T10:18:45Z",
-                "open_issues": 18,
+                "last_commit": "2026-11-10T08:04:03Z",
+                "open_issues": 17,
                 "owner": "btcid",
                 "repo": "indodax-official-api-docs",
                 "stars": 174,
@@ -810,7 +810,7 @@
                 "open_issues": 29,
                 "owner": "Cgboal",
                 "repo": "SonarSearch",
-                "stars": 648,
+                "stars": 649,
                 "topics": [
                   "bugbounty",
                   "dns",
@@ -905,7 +905,7 @@
                 "open_issues": 2,
                 "owner": "sameerkumar18",
                 "repo": "corporate-bs-generator-api",
-                "stars": 367,
+                "stars": 368,
                 "topics": [
                   "api",
                   "bullshit",
@@ -1266,8 +1266,8 @@
                 "id": 218856223,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-09T21:52:07Z",
-                "open_issues": 16,
+                "last_commit": "2026-11-10T21:30:33Z",
+                "open_issues": 15,
                 "owner": "favware",
                 "repo": "graphql-pokemon",
                 "stars": 202,
@@ -1789,7 +1789,7 @@
                 "open_issues": 11,
                 "owner": "cyberboysumanjay",
                 "repo": "JioSaavnAPI",
-                "stars": 469,
+                "stars": 470,
                 "topics": [
                   "api",
                   "downloadermp3",
@@ -2019,7 +2019,7 @@
                 "open_issues": 41,
                 "owner": "Hipo",
                 "repo": "university-domains-list",
-                "stars": 1678,
+                "stars": 1679,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -2047,7 +2047,7 @@
                 "open_issues": 298,
                 "owner": "anuraghazra",
                 "repo": "github-readme-stats",
-                "stars": 79840,
+                "stars": 79841,
                 "topics": [
                   "dynamic",
                   "profile-readme",
@@ -2252,7 +2252,7 @@
                 "open_issues": 79,
                 "owner": "r-spacex",
                 "repo": "SpaceX-API",
-                "stars": 10919,
+                "stars": 10922,
                 "topics": [
                   "api",
                   "capsule",
@@ -2535,7 +2535,7 @@
                 "open_issues": 24,
                 "owner": "4chan",
                 "repo": "4chan-API",
-                "stars": 1117,
+                "stars": 1114,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -2556,7 +2556,7 @@
                 "open_issues": 5,
                 "owner": "HackerNews",
                 "repo": "API",
-                "stars": 13420,
+                "stars": 13422,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -2577,7 +2577,7 @@
                 "open_issues": 13,
                 "owner": "Phineas",
                 "repo": "lanyard",
-                "stars": 1491,
+                "stars": 1494,
                 "topics": [
                   "discord",
                   "discord-rpc",
@@ -2811,7 +2811,7 @@
                 "open_issues": 9,
                 "owner": "shevabam",
                 "repo": "breaking-bad-quotes",
-                "stars": 469,
+                "stars": 470,
                 "topics": [
                   "api",
                   "breaking-bad",
@@ -3065,7 +3065,7 @@
                 "open_issues": 6,
                 "owner": "robertoduessmann",
                 "repo": "weather-api",
-                "stars": 487,
+                "stars": 489,
                 "topics": [
                   "golang",
                   "weather",
@@ -3084,7 +3084,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T02:44:13.356Z",
+    "last_updated": "2026-11-11T00:39:35.925Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of public APIs for developers",
@@ -3092,11 +3092,11 @@
       "id": 490985210,
       "language": "JavaScript",
       "license": "MIT",
-      "last_commit": "2026-11-09T23:10:51Z",
-      "open_issues": 25,
+      "last_commit": "2026-11-10T23:25:56Z",
+      "open_issues": 28,
       "owner": "marcelscruz",
       "repo": "public-apis",
-      "stars": 9700,
+      "stars": 9706,
       "topics": [
         "apis",
         "awesome",
@@ -3109,7 +3109,7 @@
         "resources"
       ]
     },
-    "original_repository_sha": "09ce626df3c6351d64f738d68e363cef15e2c126",
+    "original_repository_sha": "ef2baa191cf8e30c1817b6be6202a400a9a83abb",
     "enhanced_repository": "enhansome/enhansome-public-apis",
     "enhanced_repository_description": null,
     "title": "Awesome public apis with stars"

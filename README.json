@@ -21,7 +21,7 @@
                 "open_issues": 476,
                 "owner": "justadudewhohacks",
                 "repo": "face-api.js",
-                "stars": 17995,
+                "stars": 17993,
                 "topics": [
                   "age-estimation",
                   "emotion-recognition",
@@ -62,7 +62,7 @@
                 "open_issues": 22,
                 "owner": "wh-iterabb-it",
                 "repo": "meowfacts",
-                "stars": 554,
+                "stars": 556,
                 "topics": [
                   "api",
                   "catfacts",
@@ -357,7 +357,7 @@
                 "open_issues": 31,
                 "owner": "fawazahmed0",
                 "repo": "quran-api",
-                "stars": 1213,
+                "stars": 1214,
                 "topics": [
                   "al-quran",
                   "api",
@@ -482,11 +482,11 @@
                 "id": 316913418,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-11-09T01:47:42Z",
+                "last_commit": "2026-11-11T09:01:16Z",
                 "open_issues": 1,
                 "owner": "binance",
                 "repo": "binance-spot-api-docs",
-                "stars": 4908,
+                "stars": 4909,
                 "topics": [
                   "binance-api",
                   "documentation",
@@ -949,44 +949,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": "KeepRule",
-              "description": "Investment principles and quotes from Buffett, Munger, and other masters No Yes",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Free Investment Principles API - Curated wisdom from Buffett, Munger & more | keeprule.com",
-                "homepage": "https://keeprule.com",
-                "id": 1189329392,
-                "language": "HTML",
-                "license": null,
-                "last_commit": "2026-03-23T14:45:31Z",
-                "open_issues": 0,
-                "owner": "henu-wang",
-                "repo": "keeprule-api",
-                "stars": 4,
-                "topics": [
-                  "api",
-                  "buffett",
-                  "finance",
-                  "financial-literacy",
-                  "investing",
-                  "investment-principles",
-                  "investment-quotes",
-                  "json-api",
-                  "keeprule",
-                  "munger",
-                  "open-api",
-                  "portfolio",
-                  "rest-api",
-                  "stock-market",
-                  "value-investing",
-                  "warren-buffett"
-                ]
-              },
-              "first_seen": "2026-08-28T04:22:23.931Z"
-            },
-            {
-              "node_type": "item",
               "title": "Real Time Finance",
               "description": "Websocket API to access realtime stock data  Unknown",
               "children": [],
@@ -1266,7 +1228,7 @@
                 "id": 218856223,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-10T21:30:33Z",
+                "last_commit": "2026-11-11T22:37:52Z",
                 "open_issues": 15,
                 "owner": "favware",
                 "repo": "graphql-pokemon",
@@ -1325,11 +1287,11 @@
                 "id": 239970041,
                 "language": "EJS",
                 "license": "MIT",
-                "last_commit": "2026-11-04T10:35:04Z",
+                "last_commit": "2026-11-11T03:19:55Z",
                 "open_issues": 0,
                 "owner": "mazipan",
                 "repo": "graphql-pokeapi",
-                "stars": 189,
+                "stars": 190,
                 "topics": [
                   "graphql-api",
                   "hacktoberfest",
@@ -1697,7 +1659,7 @@
                 "open_issues": 71,
                 "owner": "mathdroid",
                 "repo": "covid-19-api",
-                "stars": 1348,
+                "stars": 1347,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -2047,7 +2009,7 @@
                 "open_issues": 298,
                 "owner": "anuraghazra",
                 "repo": "github-readme-stats",
-                "stars": 79841,
+                "stars": 79846,
                 "topics": [
                   "dynamic",
                   "profile-readme",
@@ -2081,7 +2043,7 @@
                 "open_issues": 10,
                 "owner": "Medium",
                 "repo": "medium-api-docs",
-                "stars": 2334,
+                "stars": 2333,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -2356,7 +2318,7 @@
                 "open_issues": 20,
                 "owner": "fingerprintjs",
                 "repo": "BotD",
-                "stars": 1494,
+                "stars": 1495,
                 "topics": [
                   "automation",
                   "bot-detection",
@@ -2556,7 +2518,7 @@
                 "open_issues": 5,
                 "owner": "HackerNews",
                 "repo": "API",
-                "stars": 13422,
+                "stars": 13430,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -2573,7 +2535,7 @@
                 "id": 346433598,
                 "language": "Elixir",
                 "license": "MIT",
-                "last_commit": "2026-11-04T18:07:56Z",
+                "last_commit": "2026-11-11T10:31:34Z",
                 "open_issues": 13,
                 "owner": "Phineas",
                 "repo": "lanyard",
@@ -2811,7 +2773,7 @@
                 "open_issues": 9,
                 "owner": "shevabam",
                 "repo": "breaking-bad-quotes",
-                "stars": 470,
+                "stars": 472,
                 "topics": [
                   "api",
                   "breaking-bad",
@@ -3084,7 +3046,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T00:39:35.925Z",
+    "last_updated": "2026-11-12T01:53:42.003Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of public APIs for developers",
@@ -3092,11 +3054,11 @@
       "id": 490985210,
       "language": "JavaScript",
       "license": "MIT",
-      "last_commit": "2026-11-10T23:25:56Z",
-      "open_issues": 28,
+      "last_commit": "2026-11-11T23:24:28Z",
+      "open_issues": 25,
       "owner": "marcelscruz",
       "repo": "public-apis",
-      "stars": 9706,
+      "stars": 9715,
       "topics": [
         "apis",
         "awesome",
@@ -3109,7 +3071,7 @@
         "resources"
       ]
     },
-    "original_repository_sha": "ef2baa191cf8e30c1817b6be6202a400a9a83abb",
+    "original_repository_sha": "55e6096cbe64b0b861beeb73e370c7e37a10d4af",
     "enhanced_repository": "enhansome/enhansome-public-apis",
     "enhanced_repository_description": null,
     "title": "Awesome public apis with stars"

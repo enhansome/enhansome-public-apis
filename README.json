@@ -18,10 +18,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2024-01-24T09:25:35Z",
-                "open_issues": 476,
+                "open_issues": 477,
                 "owner": "justadudewhohacks",
                 "repo": "face-api.js",
-                "stars": 17993,
+                "stars": 17991,
                 "topics": [
                   "age-estimation",
                   "emotion-recognition",
@@ -357,7 +357,7 @@
                 "open_issues": 31,
                 "owner": "fawazahmed0",
                 "repo": "quran-api",
-                "stars": 1215,
+                "stars": 1216,
                 "topics": [
                   "al-quran",
                   "api",
@@ -2009,7 +2009,7 @@
                 "open_issues": 299,
                 "owner": "anuraghazra",
                 "repo": "github-readme-stats",
-                "stars": 79848,
+                "stars": 79846,
                 "topics": [
                   "dynamic",
                   "profile-readme",
@@ -2043,7 +2043,7 @@
                 "open_issues": 10,
                 "owner": "Medium",
                 "repo": "medium-api-docs",
-                "stars": 2333,
+                "stars": 2332,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -2134,7 +2134,7 @@
                 "open_issues": 31,
                 "owner": "DenverCoder1",
                 "repo": "readme-typing-svg",
-                "stars": 9521,
+                "stars": 9523,
                 "topics": [
                   "animation",
                   "dynamic",
@@ -2318,7 +2318,7 @@
                 "open_issues": 20,
                 "owner": "fingerprintjs",
                 "repo": "BotD",
-                "stars": 1496,
+                "stars": 1497,
                 "topics": [
                   "automation",
                   "bot-detection",
@@ -2592,7 +2592,7 @@
                 "open_issues": 4,
                 "owner": "azharimm",
                 "repo": "football-standings-api",
-                "stars": 120,
+                "stars": 121,
                 "topics": [
                   "api",
                   "express",
@@ -3046,7 +3046,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T01:04:10.378Z",
+    "last_updated": "2026-11-14T00:53:24.812Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of public APIs for developers",
@@ -3054,11 +3054,11 @@
       "id": 490985210,
       "language": "JavaScript",
       "license": "MIT",
-      "last_commit": "2026-11-12T23:17:36Z",
-      "open_issues": 28,
+      "last_commit": "2026-11-13T19:18:09Z",
+      "open_issues": 31,
       "owner": "marcelscruz",
       "repo": "public-apis",
-      "stars": 9722,
+      "stars": 9726,
       "topics": [
         "apis",
         "awesome",
@@ -3071,7 +3071,7 @@
         "resources"
       ]
     },
-    "original_repository_sha": "b8165bd5713ec2701936a7eaf83a12012b082d89",
+    "original_repository_sha": "3ab2eeea4fe02b8a1a15500f5220188c38cd1a47",
     "enhanced_repository": "enhansome/enhansome-public-apis",
     "enhanced_repository_description": null,
     "title": "Awesome public apis with stars"

@@ -185,7 +185,7 @@
                 "open_issues": 20,
                 "owner": "harvardartmuseums",
                 "repo": "api-docs",
-                "stars": 428,
+                "stars": 427,
                 "topics": [
                   "api",
                   "iiif",
@@ -486,7 +486,7 @@
                 "open_issues": 1,
                 "owner": "binance",
                 "repo": "binance-spot-api-docs",
-                "stars": 4911,
+                "stars": 4912,
                 "topics": [
                   "binance-api",
                   "documentation",
@@ -516,7 +516,7 @@
                 "open_issues": 16,
                 "owner": "EverexIO",
                 "repo": "Ethplorer",
-                "stars": 850,
+                "stars": 851,
                 "topics": [
                   "blockchain",
                   "ethereum",
@@ -674,8 +674,8 @@
                 "id": 97043763,
                 "language": "JavaScript",
                 "license": "OSL-3.0",
-                "last_commit": "2026-11-09T14:38:17Z",
-                "open_issues": 7,
+                "last_commit": "2026-11-15T14:51:35Z",
+                "open_issues": 8,
                 "owner": "jsdelivr",
                 "repo": "data.jsdelivr.com",
                 "stars": 250,
@@ -1228,8 +1228,8 @@
                 "id": 218856223,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-11T22:37:52Z",
-                "open_issues": 15,
+                "last_commit": "2026-11-15T10:00:32Z",
+                "open_issues": 20,
                 "owner": "favware",
                 "repo": "graphql-pokemon",
                 "stars": 202,
@@ -1399,8 +1399,8 @@
                 "id": 259080904,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-08T05:22:35Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-15T05:22:45Z",
+                "open_issues": 5,
                 "owner": "DiljotSG",
                 "repo": "MCU-Countdown",
                 "stars": 239,
@@ -1622,7 +1622,7 @@
                 "open_issues": 2,
                 "owner": "M-Media-Group",
                 "repo": "Covid-19-API",
-                "stars": 389,
+                "stars": 390,
                 "topics": [
                   "api",
                   "aws",
@@ -2009,7 +2009,7 @@
                 "open_issues": 299,
                 "owner": "anuraghazra",
                 "repo": "github-readme-stats",
-                "stars": 79840,
+                "stars": 79842,
                 "topics": [
                   "dynamic",
                   "profile-readme",
@@ -2134,7 +2134,7 @@
                 "open_issues": 31,
                 "owner": "DenverCoder1",
                 "repo": "readme-typing-svg",
-                "stars": 9523,
+                "stars": 9525,
                 "topics": [
                   "animation",
                   "dynamic",
@@ -2318,7 +2318,7 @@
                 "open_issues": 20,
                 "owner": "fingerprintjs",
                 "repo": "BotD",
-                "stars": 1498,
+                "stars": 1499,
                 "topics": [
                   "automation",
                   "bot-detection",
@@ -2518,7 +2518,7 @@
                 "open_issues": 5,
                 "owner": "HackerNews",
                 "repo": "API",
-                "stars": 13434,
+                "stars": 13437,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -2827,7 +2827,7 @@
                 "open_issues": 6,
                 "owner": "TelegramPlayground",
                 "repo": "Free-Movie-Series-DB-API",
-                "stars": 180,
+                "stars": 181,
                 "topics": [
                   "api",
                   "bot",
@@ -2880,8 +2880,8 @@
                 "id": 259080904,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-08T05:22:35Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-15T05:22:45Z",
+                "open_issues": 5,
                 "owner": "DiljotSG",
                 "repo": "MCU-Countdown",
                 "stars": 239,
@@ -2913,7 +2913,7 @@
                 "open_issues": 0,
                 "owner": "F4R4N",
                 "repo": "movie-quote",
-                "stars": 43,
+                "stars": 44,
                 "topics": [
                   "api",
                   "django",
@@ -3046,7 +3046,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T23:54:32.459Z",
+    "last_updated": "2026-11-15T23:57:54.722Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of public APIs for developers",
@@ -3054,11 +3054,11 @@
       "id": 490985210,
       "language": "JavaScript",
       "license": "MIT",
-      "last_commit": "2026-11-14T23:15:52Z",
-      "open_issues": 32,
+      "last_commit": "2026-11-15T19:26:14Z",
+      "open_issues": 34,
       "owner": "marcelscruz",
       "repo": "public-apis",
-      "stars": 9730,
+      "stars": 9736,
       "topics": [
         "apis",
         "awesome",
@@ -3071,7 +3071,7 @@
         "resources"
       ]
     },
-    "original_repository_sha": "458c583a17b051a3873ee23db77019f2c4ef3030",
+    "original_repository_sha": "1054c4ccad9ff1cc7bc4c0f19c58bfa2e7efa30d",
     "enhanced_repository": "enhansome/enhansome-public-apis",
     "enhanced_repository_description": null,
     "title": "Awesome public apis with stars"

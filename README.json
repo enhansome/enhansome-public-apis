@@ -90,7 +90,7 @@
                 "open_issues": 14,
                 "owner": "movebank",
                 "repo": "movebank-api-doc",
-                "stars": 194,
+                "stars": 195,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -118,7 +118,7 @@
                 "open_issues": 67,
                 "owner": "AniList",
                 "repo": "docs",
-                "stars": 1346,
+                "stars": 1347,
                 "topics": [
                   "anichart",
                   "anilist",
@@ -252,7 +252,7 @@
                 "open_issues": 126,
                 "owner": "CrossRef",
                 "repo": "rest-api-doc",
-                "stars": 805,
+                "stars": 806,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -357,7 +357,7 @@
                 "open_issues": 32,
                 "owner": "fawazahmed0",
                 "repo": "quran-api",
-                "stars": 1220,
+                "stars": 1222,
                 "topics": [
                   "al-quran",
                   "api",
@@ -1228,7 +1228,7 @@
                 "id": 218856223,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-18T13:10:26Z",
+                "last_commit": "2026-11-21T22:40:59Z",
                 "open_issues": 20,
                 "owner": "favware",
                 "repo": "graphql-pokemon",
@@ -2006,10 +2006,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-01T01:02:55Z",
-                "open_issues": 299,
+                "open_issues": 298,
                 "owner": "anuraghazra",
                 "repo": "github-readme-stats",
-                "stars": 79838,
+                "stars": 79836,
                 "topics": [
                   "dynamic",
                   "profile-readme",
@@ -2130,11 +2130,11 @@
                 "id": 359687154,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-19T15:11:49Z",
-                "open_issues": 27,
+                "last_commit": "2026-11-21T21:39:17Z",
+                "open_issues": 28,
                 "owner": "DenverCoder1",
                 "repo": "readme-typing-svg",
-                "stars": 9533,
+                "stars": 9535,
                 "topics": [
                   "animation",
                   "dynamic",
@@ -2193,7 +2193,7 @@
                 "open_issues": 5,
                 "owner": "inspirehep",
                 "repo": "rest-api-doc",
-                "stars": 60,
+                "stars": 61,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -2518,7 +2518,7 @@
                 "open_issues": 5,
                 "owner": "HackerNews",
                 "repo": "API",
-                "stars": 13450,
+                "stars": 13451,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:23.931Z"
@@ -2773,7 +2773,7 @@
                 "open_issues": 9,
                 "owner": "shevabam",
                 "repo": "breaking-bad-quotes",
-                "stars": 473,
+                "stars": 474,
                 "topics": [
                   "api",
                   "breaking-bad",
@@ -2827,7 +2827,7 @@
                 "open_issues": 6,
                 "owner": "TelegramPlayground",
                 "repo": "Free-Movie-Series-DB-API",
-                "stars": 181,
+                "stars": 182,
                 "topics": [
                   "api",
                   "bot",
@@ -3046,7 +3046,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T01:30:38.130Z",
+    "last_updated": "2026-11-22T00:19:59.821Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of public APIs for developers",
@@ -3054,11 +3054,11 @@
       "id": 490985210,
       "language": "JavaScript",
       "license": "MIT",
-      "last_commit": "2026-11-20T19:23:30Z",
-      "open_issues": 40,
+      "last_commit": "2026-11-21T23:23:35Z",
+      "open_issues": 39,
       "owner": "marcelscruz",
       "repo": "public-apis",
-      "stars": 9755,
+      "stars": 9758,
       "topics": [
         "apis",
         "awesome",
@@ -3071,7 +3071,7 @@
         "resources"
       ]
     },
-    "original_repository_sha": "ab04e404c56a38bb96550bff45490eb1feccefc5",
+    "original_repository_sha": "c1057bf76173c2c23c7f008c94da1235809fb150",
     "enhanced_repository": "enhansome/enhansome-public-apis",
     "enhanced_repository_description": null,
     "title": "Awesome public apis with stars"
